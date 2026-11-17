@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Harbour Chronicle — Colophon</title>
+  <meta name="description" content="About The Harbour Chronicle, an independent living broadsheet set at Victoria Harbour.">
+    <meta name="theme-color" content="#1c150e">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Chronicle">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+  <link rel="icon" href="assets/crest.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600;1,700&family=IM+Fell+English:ital@0;1&family=IBM+Plex+Mono:ital,wght@0,400;0,500;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,500&family=Noto+Serif+TC:wght@500;700&family=Oswald:wght@500;600;700&display=swap">
+  <link rel="stylesheet" href="css/press.css">
+  <link rel="stylesheet" href="css/desks.css">
+  
+</head>
+<body class="desk-world" data-leaf="about" data-desk="world">
+  <a class="skip" href="#folio">Skip to the folio</a>
+  <div class="desk-bg" aria-hidden="true"></div>
+  <canvas id="ink-trail" aria-hidden="true"></canvas>
+  <main class="sheet" id="folio">
+    <header class="masthead">
+      <p class="press-line">The Living Press at Victoria Harbour</p>
+      <div class="masthead-crest-row">
+        <hr class="rule-flourish" aria-hidden="true">
+        <img class="crest" src="assets/crest.svg" width="92" height="92" alt="Press-mark of The Harbour Chronicle: a harbour egret among typographic tide rings">
+        <hr class="rule-flourish" aria-hidden="true">
+      </div>
+      <h1 class="wordmark"><span class="the">The</span> Harbour<br>Chronicle</h1>
+      <p class="motto">Ink that holds the tide</p>
+      <div class="folio-line">
+        <div>
+          <div><strong data-bind="volume">Vol. I</strong></div>
+          <div data-bind="date">Hong Kong</div>
+        </div>
+        <div class="harbour-glass" data-bind="weather"></div>
+      </div>
+    </header>
+    <ul class="slug-nav" aria-label="Edition desks">
+            <li><a href="index.html" data-desk="world">Front<span class="zh">首頁</span></a></li>
+            <li><a href="world.html" data-desk="world">World<span class="zh">要聞</span></a></li>
+            <li><a href="hong-kong.html" data-desk="hong-kong">Hong Kong & Asia<span class="zh">港聞與亞洲</span></a></li>
+            <li><a href="business.html" data-desk="business">Business<span class="zh">經濟</span></a></li>
+            <li><a href="sport.html" data-desk="sport">Sport<span class="zh">體育</span></a></li>
+            <li><a href="culture.html" data-desk="culture">Culture<span class="zh">文藝</span></a></li>
+            <li><a href="science.html" data-desk="science">Science<span class="zh">科學</span></a></li>
+            <li><a href="opinion.html" data-desk="opinion">Opinion<span class="zh">社評</span></a></li>
+    </ul>
+    <form class="seek" role="search" action="javascript:void(0)">
+      <label>Seek <input id="seek-input" type="search" placeholder="a name, a desk, a source…" autocomplete="off"></label>
+    </form>
+    <div id="seek-results" class="seek-results" role="listbox" aria-label="Search results"></div>
+    
+    <div id="folio-body" class="colophon-prose">
+      <p class="kicker">The Living Press at Victoria Harbour</p>
+      <h1>Colophon</h1>
+      <p><span class="drop">T</span>he Harbour Chronicle is an independent digital broadsheet, first set in the year MMXXVI. It is an original work of typographic theatre: a rag-paper leaf whose plates can hold motion. It is not the organ of any government, studio, or other newspaper, and it does not borrow another paper’s name, crest, or type.</p>
+      <p>The press-mark is a harbour egret among typographic tide rings, with the motto <em>Ink that holds the tide</em>. The bird is a commonplace of these waters, not a messenger from any story but our own. What looks enchanted on the page — the letterpress bite, the moving plates, the vermillion seal of the harbour desk — is framing. The news itself is real.</p>
+
+      <h2>On the news</h2>
+      <p>Every headline, time, and fact on these leaves is taken from a public RSS feed or official open data. We write a short original precis from the public summary and title, then send the reader to the originating desk. We do not invent quotations, scores, deaths, or datelines, and we do not reprint copyrighted article bodies. Times are converted to Hong Kong Time and marked HKT. The harbour glass, when shown, is taken from the Hong Kong Observatory’s open data.</p>
+      <p>The snapshot of each edition is stored with the site and refreshed on a regular schedule. If a feed is silent, the last good leaf remains on the stone rather than a blank page.</p>
+
+      <h2>On the living plates</h2>
+      <p>When a plate moves, it is an official news video — typically an embed from a public YouTube channel of a recognised newsroom — restyled as a typographic impression: muted, looping, slightly grainy, with the ordinary player chrome put away. A small typographic control, “Sound off,” will let the plate speak. If you prefer less motion, the press will hold the plate still. Captions credit the originating channel, and a link leads to the official watch page.</p>
+
+      <h2>Sources</h2>
+      <p>This edition draws, as available, on public feeds and video channels from BBC News and BBC Sport, The Guardian, NPR, Al Jazeera, Hong Kong Free Press, South China Morning Post (headlines and short public summaries only), news.gov.hk, CNA, The Japan Times, Deutsche Welle, France 24, Reuters, the Associated Press, Sky News, and the Hong Kong Observatory. Their journalism remains theirs. We are a compositor, not a substitute.</p>
+
+      <h2>Credits</h2>
+      <p>Type: Cormorant Garamond, IM Fell English, Newsreader, Cinzel, Oswald, IBM Plex Mono, and Noto Serif TC, served by Google Fonts. Rag-paper textures and the press-mark were made for this edition. Feed photographs, when shown, remain the property of the originating publisher and are displayed with attribution; if a remote image fails, a typographic plate stands in its place.</p>
+
+      <h2>A note from the registrar</h2>
+      <p>This leaf is a made object, set to feel as if a harbour press had learned to hold moving pictures. It is offered as a newspaper first. For corrections of fact, consult the original dispatch, which is always linked, and prefer it over our precis.</p>
+      <p><a href="index.html">Return to the front leaf</a></p>
+    </div>
+
+    <footer class="press-foot">
+      <div>
+        <h2>The living press</h2>
+        <p>An independent digital broadsheet, set at Victoria Harbour. Not affiliated with any other newspaper. Headlines and facts come from public dispatches; article bodies are not reproduced.</p>
+        <p><a href="about.html">Colophon &amp; credits</a></p>
+      </div>
+      <div>
+        <h2>The registrar</h2>
+        <p>Times are given in Hong Kong Time (HKT). Living plates are official news pictures, restyled as moving impressions, never invented scenes.</p>
+      </div>
+      <div>
+        <h2>Keep this paper</h2>
+        <div class="keep-paper" id="keep-paper" hidden>
+          <button type="button" id="install-edition" hidden>Install this edition</button>
+          <span id="ios-install" hidden>On iPhone: tap Share, then Add to Home Screen, to keep this edition as an app.</span>
+        </div>
+        <p class="keep-paper-note">This leaf can be installed as an app on your Home Screen, and may be read again without a wire once it has been opened.</p>
+      </div>
+      <div>
+        <h2>Desks</h2>
+        <p>
+          <a href="world.html">World</a> ·
+          <a href="hong-kong.html">Hong Kong &amp; Asia</a> ·
+          <a href="business.html">Business</a> ·
+          <a href="sport.html">Sport</a> ·
+          <a href="culture.html">Culture</a> ·
+          <a href="science.html">Science</a> ·
+          <a href="opinion.html">Opinion</a>
+        </p>
+      </div>
+    </footer>
+  </main>
+  <script src="js/edition.js"></script>
+  <script src="js/press.js"></script>
+  <script src="https://www.youtube.com/iframe_api"></script>
+</body>
+</html>

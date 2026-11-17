@@ -1,0 +1,1 @@
+An Android APK was not built for this edition: no Android SDK or Java toolchain was available on the press machine. The supported way to keep The Harbour Chronicle as an app is the Progressive Web App (Add to Home Screen on iPhone; Install app on Android and desktop Chrome).

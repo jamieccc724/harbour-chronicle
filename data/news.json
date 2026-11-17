@@ -1,0 +1,2414 @@
+{
+  "paper": "The Harbour Chronicle",
+  "motto": "Ink that holds the tide",
+  "press": "The Living Press at Victoria Harbour",
+  "city": "Hong Kong",
+  "volume": "Vol. I",
+  "number": 321,
+  "issueLine": "Vol. I, No. 321",
+  "editionName": "Evening Tide",
+  "dateIso": "2026-11-17",
+  "dateDisplay": "Tuesday, 17 November 2026",
+  "generatedAt": "2026-11-17T21:13:22.054816+08:00",
+  "timezone": "HKT",
+  "weather": {
+    "source": "Hong Kong Observatory",
+    "sourceUrl": "https://www.hko.gov.hk/en/index.html",
+    "tempC": 25,
+    "humidity": 81,
+    "place": "Hong Kong Observatory",
+    "updatedIso": "2026-11-17T20:02:00+08:00",
+    "line": "8:02 PM HKT — 25°C at the Hong Kong Observatory, humidity 81%. An easterly airstream is affecting the coast of Guangdong.",
+    "forecast": "Becoming cloudy overnight. Temperatures will be about 24 degrees tomorrow morning. Sunny intervals during the day with a maximum temperature of around 27 degrees. Moderate easterly winds, strengthening from the north with one or two rain patches later tomorrow. Temperatures in the urban areas will fall to a minimum of about 21 degrees tomorrow night, and a couple of degrees lower in the New Territ",
+    "general": "An easterly airstream is affecting the coast of Guangdong. Besides, the cold front over the northern part of southern China is moving southwards gradually. It is expected to move across the coast of Guangdong later tomorrow."
+  },
+  "desks": {
+    "world": {
+      "id": "world",
+      "name": "World",
+      "flag": "World",
+      "zh": "要聞",
+      "kicker": "Set in formal ink at the foreign desk",
+      "intro": "The world desk keeps a tight, old-press measure: formal serif, black ink, and living plates drawn from official impressions abroad. Nothing on this leaf is invented."
+    },
+    "hong-kong": {
+      "id": "hong-kong",
+      "name": "Hong Kong & Asia",
+      "flag": "Hong Kong & Asia",
+      "zh": "港聞與亞洲",
+      "kicker": "Harbour dispatches, set with a vermillion seal",
+      "intro": "The harbour desk sets English first, with Chinese flags as ornaments, and warms the rag slightly. These are public reports from Hong Kong and across Asia, attributed to their original publishers."
+    },
+    "business": {
+      "id": "business",
+      "name": "Business",
+      "flag": "Business",
+      "zh": "經濟",
+      "kicker": "The ledger desk, in cooler ink",
+      "intro": "Figures appear only when a source printed them. The ledger desk uses a cooler sheet, tighter tracking, and tabular numerals — a counting-house leaf of the living press."
+    },
+    "sport": {
+      "id": "sport",
+      "name": "Sport",
+      "flag": "Sport",
+      "zh": "體育",
+      "kicker": "A louder case, still set by hand",
+      "intro": "The sport desk cuts bolder headlines and gives one plate the run of the page. Scores and results are taken from the originating desk, never guessed at the stone."
+    },
+    "culture": {
+      "id": "culture",
+      "name": "Culture",
+      "flag": "Culture",
+      "zh": "文藝",
+      "kicker": "A wider measure, and illustrated plates",
+      "intro": "The culture desk leaves more air around the type, prefers italic decks, and lets a living plate breathe like a folio illustration."
+    },
+    "science": {
+      "id": "science",
+      "name": "Science",
+      "flag": "Science",
+      "zh": "科學",
+      "kicker": "Thin rules, cyan-black ink",
+      "intro": "The science desk sets a cleaner modern serif on a cooler sheet. Claims stay with their papers and laboratories; we do not embroider the result."
+    },
+    "opinion": {
+      "id": "opinion",
+      "name": "Opinion",
+      "flag": "Opinion",
+      "zh": "社評",
+      "kicker": "Essay type, a quill measure",
+      "intro": "These are other people’s arguments, printed with a large drop cap and a quiet headline. The views belong to the named writers and their newspapers, not to this press."
+    }
+  },
+  "front": [
+    "china-says-xi-trump-putin-to-discuss-world-peace-at-shenzhen-summit-27e020",
+    "hundreds-arrested-in-anti-trump-protests-in-philippines-amid-anger-over-9efce1",
+    "trump-arrives-in-philippines-to-kick-off-asia-trip-ebb2a1",
+    "singapore-in-damage-control-after-nvidia-scandal-exposes-china-loophole-260466",
+    "china-and-canada-agree-on-fresh-tariff-relief-as-xi-and-carney-continue-b7bda8",
+    "china-and-vietnam-should-weather-the-storm-together-xi-tells-lam-in-shen-c8fbb6",
+    "hi-tech-shenzhen-takes-centre-stage-as-xi-sends-chinamaxxing-message-at-bac46a",
+    "china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen-0615b6",
+    "china-vows-to-take-necessary-measures-against-us-ai-chip-restrictions-as-bf87b2",
+    "will-infantino-feel-he-s-already-won-as-fifa-challengers-are-revealed-5517c6",
+    "neet-ideas-what-s-in-alan-milburn-s-report-on-young-people-not-in-educat-454f3d",
+    "uk-unemployment-unexpectedly-eases-to-4-6-as-government-prepares-to-rele-ec207f",
+    "speed-camera-fault-may-have-allowed-drivers-to-escape-fines-04508f",
+    "uk-sanctions-firms-over-israeli-west-bank-settlements-47b472",
+    "london-city-s-goodwin-gets-first-england-call-up-0612e0",
+    "singapore-outclassed-in-7-0-defeat-by-brazil-as-vinicius-jr-scores-hat-t-cb49c7"
+  ],
+  "stories": {
+    "hundreds-arrested-in-anti-trump-protests-in-philippines-amid-anger-over-9efce1": {
+      "id": "hundreds-arrested-in-anti-trump-protests-in-philippines-amid-anger-over-9efce1",
+      "headline": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+      "deck": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – live updates Hundreds of people…",
+      "precis": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact, according to The Guardian. Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – live updates Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the US president arrived in the city for a leaders’ summit. Organisers claimed as many as 10,000 people would be joining protests against Trump in the capital of the Philippines on Tuesday, where he is attending the Association of Southeast Asian Nations (Asean) summit. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Tom McIlroy in Manila",
+      "published": {
+        "iso": "2026-11-17T19:00:39+08:00",
+        "display": "17 November 2026, 7:00 PM HKT",
+        "short": "17 Nov, 7:00 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "world",
+      "image": "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=d705d30eaf39229da515c775b9c5324e",
+      "imageCredit": "The Guardian (feed image)",
+      "video": {
+        "youtubeId": "IOeaHN24y5o",
+        "channel": "Al Jazeera English",
+        "title": "Thousands protest against Trump ahead of ASEAN summit in Manila",
+        "watchUrl": "https://www.youtube.com/watch?v=IOeaHN24y5o",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/IOeaHN24y5o",
+        "poster": "https://i.ytimg.com/vi/IOeaHN24y5o/hqdefault.jpg"
+      },
+      "summarySource": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – live updates Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the US president arrived in the city for a leaders’ summit. Organisers claimed as many as 10,000 people would be joining protests against Trump in t",
+      "related": [
+        "trump-arrives-in-philippines-to-kick-off-asia-trip-ebb2a1"
+      ]
+    },
+    "hi-tech-shenzhen-takes-centre-stage-as-xi-sends-chinamaxxing-message-at-bac46a": {
+      "id": "hi-tech-shenzhen-takes-centre-stage-as-xi-sends-chinamaxxing-message-at-bac46a",
+      "headline": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
+      "deck": "Host city offers showcase of China’s rise into a confident and innovative power central to global economy In a Shenzhen square on a balmy evening, locals and tourists watched…",
+      "precis": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit, according to The Guardian. Host city offers showcase of China’s rise into a confident and innovative power central to global economy In a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan and violet, cyber green, China’s national scarlet and gold – repeatedly flashing the words “Apec 2026”. The Asia-Pacific Economic Cooperation summit is a dream showcase for one of China’s most advanced cities, and the country’s leader, Xi Jinping, is basking in its neon glow. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Rebecca Bailey in Shenzhen",
+      "published": {
+        "iso": "2026-11-17T19:18:26+08:00",
+        "display": "17 November 2026, 7:18 PM HKT",
+        "short": "17 Nov, 7:18 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "world",
+      "image": "https://i.guim.co.uk/img/media/18cb31b71bd7f2b4e57a7b7b8a647067ac239636/537_0_4988_3989/master/4988.jpg?width=140&quality=85&auto=format&fit=max&s=ed6d728039eaaf2cd4498d9ce9ba4655",
+      "imageCredit": "The Guardian (feed image)",
+      "video": {
+        "youtubeId": "k0Wn3EejQig",
+        "channel": "FRANCE 24 English",
+        "title": "China, Canada agree to further reduce tariffs at APEC summit in Shenzhen • FRANCE 24 English",
+        "watchUrl": "https://www.youtube.com/watch?v=k0Wn3EejQig",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/k0Wn3EejQig",
+        "poster": "https://i.ytimg.com/vi/k0Wn3EejQig/hqdefault.jpg"
+      },
+      "summarySource": "Host city offers showcase of China’s rise into a confident and innovative power central to global economy In a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan and violet, cyber green, China’s national scarlet and gold – repeatedly flashing the words “Apec 2026”. The Asia-Pacific ",
+      "related": [
+        "china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen-0615b6",
+        "trump-is-in-asia-ahead-of-xi-putin-summit-and-tech-leaders-want-huang-ba-3642c1",
+        "taiwan-tracks-2-russian-warplanes-off-eastern-coast-ahead-of-apec-summit-b688a2",
+        "china-says-xi-trump-putin-to-discuss-world-peace-at-shenzhen-summit-27e020"
+      ]
+    },
+    "china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen-0615b6": {
+      "id": "china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen-0615b6",
+      "headline": "China, Canada agree to further reduce tariffs at APEC summit in Shenzhen",
+      "deck": "China is hosting the 21-member Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen this week, hoping to use the tech megalopolis to showcase its vision for…",
+      "precis": "China, Canada agree to further reduce tariffs at APEC summit in Shenzhen, according to France 24. China is hosting the 21-member Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen this week, hoping to use the tech megalopolis to showcase its vision for international trade and development. The summit is also where the international agenda is enacted: Canada's Prime Minister Mark Carney has met with his Chinese counterpart Xi Jinping, with both leaders agreeing to reduce trade barriers between their countries. Read the original at France 24.",
+      "source": "France 24",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/business/20261117-china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen",
+      "sourceHome": "https://www.france24.com/en/",
+      "author": "Charles PELLEGRIN",
+      "published": {
+        "iso": "2026-11-17T17:45:26+08:00",
+        "display": "17 November 2026, 5:45 PM HKT",
+        "short": "17 Nov, 5:45 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "world",
+      "image": "https://s.france24.com/media/display/36dae0c6-e267-11f1-b463-695cb59fade5/w:1024/p:16x9/capture-672c7708.jpg",
+      "imageCredit": "France 24 (feed image)",
+      "video": {
+        "youtubeId": "k0Wn3EejQig",
+        "channel": "FRANCE 24 English",
+        "title": "China, Canada agree to further reduce tariffs at APEC summit in Shenzhen • FRANCE 24 English",
+        "watchUrl": "https://www.youtube.com/watch?v=k0Wn3EejQig",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/k0Wn3EejQig",
+        "poster": "https://i.ytimg.com/vi/k0Wn3EejQig/hqdefault.jpg"
+      },
+      "summarySource": "China is hosting the 21-member Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen this week, hoping to use the tech megalopolis to showcase its vision for international trade and development. The summit is also where the international agenda is enacted: Canada's Prime Minister Mark Carney has met with his Chinese counterpart Xi Jinping, with both leaders agreeing to reduce trade barriers ",
+      "related": [
+        "hi-tech-shenzhen-takes-centre-stage-as-xi-sends-chinamaxxing-message-at-bac46a",
+        "china-says-xi-trump-putin-to-discuss-world-peace-at-shenzhen-summit-27e020",
+        "china-and-canada-agree-on-fresh-tariff-relief-as-xi-and-carney-continue-b7bda8",
+        "taiwan-tracks-2-russian-warplanes-off-eastern-coast-ahead-of-apec-summit-b688a2"
+      ]
+    },
+    "trump-arrives-in-philippines-to-kick-off-asia-trip-ebb2a1": {
+      "id": "trump-arrives-in-philippines-to-kick-off-asia-trip-ebb2a1",
+      "headline": "Trump arrives in Philippines to kick off Asia trip",
+      "deck": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian…",
+      "precis": "Trump arrives in Philippines to kick off Asia trip, according to NPR. Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin. Read the original at NPR.",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+      "sourceHome": "https://www.npr.org/",
+      "author": "The Associated Press",
+      "published": {
+        "iso": "2026-11-17T18:43:55+08:00",
+        "display": "17 November 2026, 6:43 PM HKT",
+        "short": "17 Nov, 6:43 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "world",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7840x5227+0+0/resize/7840x5227!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F04%2F49%2Fa294d8eb44928fd04761b88c0ba1%2Fap26321375771842.jpg",
+      "imageCredit": "NPR (feed image)",
+      "video": {
+        "youtubeId": "kiUbj8BnS6A",
+        "channel": "FRANCE 24 English",
+        "title": "Trump arrives in Philippines to kick off Asia trip • FRANCE 24 English",
+        "watchUrl": "https://www.youtube.com/watch?v=kiUbj8BnS6A",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/kiUbj8BnS6A",
+        "poster": "https://i.ytimg.com/vi/kiUbj8BnS6A/hqdefault.jpg"
+      },
+      "summarySource": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+      "related": [
+        "trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china-95ad9d",
+        "trump-is-in-asia-ahead-of-xi-putin-summit-and-tech-leaders-want-huang-ba-3642c1",
+        "hundreds-arrested-in-anti-trump-protests-in-philippines-amid-anger-over-9efce1"
+      ]
+    },
+    "nvidia-partner-megaspeed-being-investigated-by-us-government-over-chip-e-acf948": {
+      "id": "nvidia-partner-megaspeed-being-investigated-by-us-government-over-chip-e-acf948",
+      "headline": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "deck": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "precis": "Nvidia partner Megaspeed being investigated by US government over chip exports, according to BBC News. The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T19:17:32+08:00",
+        "display": "17 November 2026, 7:17 PM HKT",
+        "short": "17 Nov, 7:17 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": {
+        "youtubeId": "uUUlNVpCeNw",
+        "channel": "Reuters",
+        "title": "Trump arrives in Asia as US tightens AI chip rules on China | Reuters World News",
+        "watchUrl": "https://www.youtube.com/watch?v=uUUlNVpCeNw",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/uUUlNVpCeNw",
+        "poster": "https://i.ytimg.com/vi/uUUlNVpCeNw/hqdefault.jpg"
+      },
+      "summarySource": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "related": [
+        "us-government-confirms-investigation-into-tech-firm-megaspeed-acf948",
+        "new-rule-aims-to-close-loophole-on-chip-exports-3304f5",
+        "china-vows-to-take-necessary-measures-against-us-ai-chip-restrictions-as-bf87b2"
+      ]
+    },
+    "us-government-confirms-investigation-into-tech-firm-megaspeed-acf948": {
+      "id": "us-government-confirms-investigation-into-tech-firm-megaspeed-acf948",
+      "headline": "US government confirms investigation into tech firm Megaspeed",
+      "deck": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "precis": "US government confirms investigation into tech firm Megaspeed, according to BBC News. The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T19:17:32+08:00",
+        "display": "17 November 2026, 7:17 PM HKT",
+        "short": "17 Nov, 7:17 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "related": [
+        "nvidia-partner-megaspeed-being-investigated-by-us-government-over-chip-e-acf948"
+      ]
+    },
+    "inside-the-chinese-ai-wonderland-where-xi-will-host-trump-ee116a": {
+      "id": "inside-the-chinese-ai-wonderland-where-xi-will-host-trump-ee116a",
+      "headline": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+      "deck": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
+      "precis": "Inside the Chinese 'AI wonderland' where Xi will host Trump. The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T14:23:51+08:00",
+        "display": "17 November 2026, 2:23 PM HKT",
+        "short": "17 Nov, 2:23 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2905/live/37886bc0-e1df-11f1-99a1-253766e7ad8b.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": {
+        "youtubeId": "15ErSkYP1L4",
+        "channel": "BBC News",
+        "title": "Inside the Chinese \"AI wonderland\" where Xi will host Trump and Putin #BBCNews",
+        "watchUrl": "https://www.youtube.com/watch?v=15ErSkYP1L4",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/15ErSkYP1L4",
+        "poster": "https://i.ytimg.com/vi/15ErSkYP1L4/hqdefault.jpg"
+      },
+      "summarySource": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
+      "related": []
+    },
+    "how-new-us-chip-restrictions-on-south-east-asia-will-hit-china-0b72aa": {
+      "id": "how-new-us-chip-restrictions-on-south-east-asia-will-hit-china-0b72aa",
+      "headline": "How new US chip restrictions on South East Asia will hit China",
+      "deck": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "precis": "How new US chip restrictions on South East Asia will hit China. The new rules restrict chip exports and also access to their computing power, which China relies on heavily. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T18:22:09+08:00",
+        "display": "17 November 2026, 6:22 PM HKT",
+        "short": "17 Nov, 6:22 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": {
+        "youtubeId": "uUUlNVpCeNw",
+        "channel": "Reuters",
+        "title": "Trump arrives in Asia as US tightens AI chip rules on China | Reuters World News",
+        "watchUrl": "https://www.youtube.com/watch?v=uUUlNVpCeNw",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/uUUlNVpCeNw",
+        "poster": "https://i.ytimg.com/vi/uUUlNVpCeNw/hqdefault.jpg"
+      },
+      "summarySource": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "related": [
+        "china-vows-to-take-necessary-measures-against-us-ai-chip-restrictions-as-bf87b2",
+        "trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china-95ad9d"
+      ]
+    },
+    "will-president-trump-meet-kim-jong-un-6ea9dd": {
+      "id": "will-president-trump-meet-kim-jong-un-6ea9dd",
+      "headline": "Will President Trump meet Kim Jong Un?",
+      "deck": "President Trump says he would be keen to meet the North Korea leader in China.",
+      "precis": "Will President Trump meet Kim Jong Un? President Trump says he would be keen to meet the North Korea leader in China. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T18:13:27+08:00",
+        "display": "17 November 2026, 6:13 PM HKT",
+        "short": "17 Nov, 6:13 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": {
+        "youtubeId": "p3_pcm-QpAo",
+        "channel": "Associated Press",
+        "title": "Ex-CIA expert weighs in on a potential meeting between Trump and Kim Jong Un",
+        "watchUrl": "https://www.youtube.com/watch?v=p3_pcm-QpAo",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/p3_pcm-QpAo",
+        "poster": "https://i.ytimg.com/vi/p3_pcm-QpAo/hqdefault.jpg"
+      },
+      "summarySource": "President Trump says he would be keen to meet the North Korea leader in China.",
+      "related": []
+    },
+    "trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china-95ad9d": {
+      "id": "trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china-95ad9d",
+      "headline": "Trump kicks off Asia tour ahead of major talks with Putin, Xi in China",
+      "deck": "US President Donald Trump flew into Manila for a Quad meeting before he takes off to China for a much anticipated meet with Russian and Chinese counterparts.",
+      "precis": "Trump kicks off Asia tour ahead of major talks with Putin, Xi in China, according to Deutsche Welle. US President Donald Trump flew into Manila for a Quad meeting before he takes off to China for a much anticipated meet with Russian and Chinese counterparts. Follow live. Read the original at Deutsche Welle.",
+      "source": "Deutsche Welle",
+      "sourceUrl": "https://www.dw.com/en/trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china/live-79964719?maca=en-rss-en-all-1573-rdf",
+      "sourceHome": "https://www.dw.com/",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T15:34:00+08:00",
+        "display": "17 November 2026, 3:34 PM HKT",
+        "short": "17 Nov, 3:34 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "world",
+      "image": null,
+      "imageCredit": "",
+      "video": {
+        "youtubeId": "xukBfOJ3oOQ",
+        "channel": "Associated Press",
+        "title": "Trump to sit down with Xi and Putin: US allies left wondering where they stand",
+        "watchUrl": "https://www.youtube.com/watch?v=xukBfOJ3oOQ",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/xukBfOJ3oOQ",
+        "poster": "https://i.ytimg.com/vi/xukBfOJ3oOQ/hqdefault.jpg"
+      },
+      "summarySource": "US President Donald Trump flew into Manila for a Quad meeting before he takes off to China for a much anticipated meet with Russian and Chinese counterparts. Follow live.",
+      "related": [
+        "trump-is-in-asia-ahead-of-xi-putin-summit-and-tech-leaders-want-huang-ba-3642c1",
+        "trump-arrives-in-philippines-to-kick-off-asia-trip-ebb2a1",
+        "china-says-xi-trump-putin-to-discuss-world-peace-at-shenzhen-summit-27e020",
+        "taiwan-tracks-2-russian-warplanes-off-eastern-coast-ahead-of-apec-summit-b688a2"
+      ]
+    },
+    "trump-is-in-asia-ahead-of-xi-putin-summit-and-tech-leaders-want-huang-ba-3642c1": {
+      "id": "trump-is-in-asia-ahead-of-xi-putin-summit-and-tech-leaders-want-huang-ba-3642c1",
+      "headline": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+      "deck": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced.",
+      "precis": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia. Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia. Read the original at NPR.",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+      "sourceHome": "https://www.npr.org/",
+      "author": "Brittney Melton",
+      "published": {
+        "iso": "2026-11-17T20:20:57+08:00",
+        "display": "17 November 2026, 8:20 PM HKT",
+        "short": "17 Nov, 8:20 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "world",
+      "image": "undefined",
+      "imageCredit": "NPR (feed image)",
+      "video": {
+        "youtubeId": "15ErSkYP1L4",
+        "channel": "BBC News",
+        "title": "Inside the Chinese \"AI wonderland\" where Xi will host Trump and Putin #BBCNews",
+        "watchUrl": "https://www.youtube.com/watch?v=15ErSkYP1L4",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/15ErSkYP1L4",
+        "poster": "https://i.ytimg.com/vi/15ErSkYP1L4/hqdefault.jpg"
+      },
+      "summarySource": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
+      "related": [
+        "trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china-95ad9d",
+        "china-says-xi-trump-putin-to-discuss-world-peace-at-shenzhen-summit-27e020",
+        "trump-arrives-in-philippines-to-kick-off-asia-trip-ebb2a1",
+        "taiwan-tracks-2-russian-warplanes-off-eastern-coast-ahead-of-apec-summit-b688a2"
+      ]
+    },
+    "speed-camera-fault-may-have-allowed-drivers-to-escape-fines-04508f": {
+      "id": "speed-camera-fault-may-have-allowed-drivers-to-escape-fines-04508f",
+      "headline": "Speed camera fault may have allowed drivers to escape fines",
+      "deck": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+      "precis": "Speed camera fault may have allowed drivers to escape fines. The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T20:44:53+08:00",
+        "display": "17 November 2026, 8:44 PM HKT",
+        "short": "17 Nov, 8:44 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a89/live/90911890-e282-11f1-b166-176de21e2352.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+      "related": []
+    },
+    "uk-sanctions-firms-over-israeli-west-bank-settlements-47b472": {
+      "id": "uk-sanctions-firms-over-israeli-west-bank-settlements-47b472",
+      "headline": "UK sanctions firms over Israeli West Bank settlements",
+      "deck": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+      "precis": "UK sanctions firms over Israeli West Bank settlements, according to BBC News. It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T20:37:52+08:00",
+        "display": "17 November 2026, 8:37 PM HKT",
+        "short": "17 Nov, 8:37 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "world",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+      "related": []
+    },
+    "singapore-in-damage-control-after-nvidia-scandal-exposes-china-loophole-260466": {
+      "id": "singapore-in-damage-control-after-nvidia-scandal-exposes-china-loophole-260466",
+      "headline": "Singapore in damage control after Nvidia scandal exposes China loophole",
+      "deck": "Singapore is working to maintain its reputation as a trusted business hub, tainted by allegations that Chinese companies had exploited it to gain access to top-end AI chips…",
+      "precis": "Singapore in damage control after Nvidia scandal exposes China loophole, according to Hong Kong Free Press. Singapore is working to maintain its reputation as a trusted business hub, tainted by allegations that Chinese companies had exploited it to gain access to top-end AI chips despite US export restrictions. A widening scandal sparked by an affair between Jensen Huang, until recently head of US chip titan Nvidia, and a suspected Chinese spy […] Read the original at Hong Kong Free Press.",
+      "source": "Hong Kong Free Press",
+      "sourceUrl": "https://hongkongfp.com/2026/11/17/singapore-in-damage-control-after-nvidia-scandal-exposes-china-loophole/",
+      "sourceHome": "https://hongkongfp.com/",
+      "author": "AFP",
+      "published": {
+        "iso": "2026-11-17T18:37:55+08:00",
+        "display": "17 November 2026, 6:37 PM HKT",
+        "short": "17 Nov, 6:37 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "hong-kong",
+      "image": "https://hongkongfp.com/wp-content/uploads/2026/11/singapore-chips-1024x576.jpg",
+      "imageCredit": "Hong Kong Free Press (feed image)",
+      "video": {
+        "youtubeId": "Ls2UqHRDIQo",
+        "channel": "Reuters",
+        "title": "Nvidia saga could spread beyond China to other Asian countries",
+        "watchUrl": "https://www.youtube.com/watch?v=Ls2UqHRDIQo",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/Ls2UqHRDIQo",
+        "poster": "https://i.ytimg.com/vi/Ls2UqHRDIQo/hqdefault.jpg"
+      },
+      "summarySource": "Singapore is working to maintain its reputation as a trusted business hub, tainted by allegations that Chinese companies had exploited it to gain access to top-end AI chips despite US export restrictions. A widening scandal sparked by an affair between Jensen Huang, until recently head of US chip titan Nvidia, and a suspected Chinese spy […]",
+      "related": [
+        "china-vows-to-take-necessary-measures-against-us-ai-chip-restrictions-as-bf87b2"
+      ]
+    },
+    "district-official-proposes-ride-hail-pickup-zone-at-kai-tak-to-curb-ille-63458e": {
+      "id": "district-official-proposes-ride-hail-pickup-zone-at-kai-tak-to-curb-ille-63458e",
+      "headline": "District official proposes ride-hail pickup zone at Kai Tak to curb illegal cross-border rides",
+      "deck": "A district-level official has suggested setting up a dedicated ride-hail pickup area for licensed vehicles outside the city’s flagship stadium after Chinese tourists hired…",
+      "precis": "District official proposes ride-hail pickup zone at Kai Tak to curb illegal cross-border rides, according to Hong Kong Free Press. A district-level official has suggested setting up a dedicated ride-hail pickup area for licensed vehicles outside the city’s flagship stadium after Chinese tourists hired illicit rides back to the mainland. Kowloon City District Councillor Cheung King-fan made the suggestion on an RTHK programme on Tuesday after mainland Chinese tourists opted for unlicensed hire cars back […] Read the original at Hong Kong Free Press.",
+      "source": "Hong Kong Free Press",
+      "sourceUrl": "https://hongkongfp.com/2026/11/17/district-official-proposes-ride-hail-pickup-zone-at-kai-tak-to-curb-illegal-cross-border-rides/",
+      "sourceHome": "https://hongkongfp.com/",
+      "author": "James Lee",
+      "published": {
+        "iso": "2026-11-17T16:42:28+08:00",
+        "display": "17 November 2026, 4:42 PM HKT",
+        "short": "17 Nov, 4:42 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "hong-kong",
+      "image": "https://hongkongfp.com/wp-content/uploads/2026/11/District-official-proposes-ride-hail-pickup-zone-at-Kai-Tak-Arena-to-curb-illegal-cross-border-hire-cars-1024x576.jpg",
+      "imageCredit": "Hong Kong Free Press (feed image)",
+      "video": null,
+      "summarySource": "A district-level official has suggested setting up a dedicated ride-hail pickup area for licensed vehicles outside the city’s flagship stadium after Chinese tourists hired illicit rides back to the mainland. Kowloon City District Councillor Cheung King-fan made the suggestion on an RTHK programme on Tuesday after mainland Chinese tourists opted for unlicensed hire cars back […]",
+      "related": []
+    },
+    "japan-offers-asean-access-to-crude-oil-storage-to-counter-energy-crises-1d3963": {
+      "id": "japan-offers-asean-access-to-crude-oil-storage-to-counter-energy-crises-1d3963",
+      "headline": "Japan offers Asean access to crude oil storage to counter energy crises",
+      "deck": "Japan has said that Southeast Asian nations will be able to access its crude oil storage facilities as part of efforts to prepare the region for a future energy crisis.",
+      "precis": "Japan offers Asean access to crude oil storage to counter energy crises, according to South China Morning Post. Japan said Southeast Asian nations will be able to access its crude oil storage facilities as part of efforts to prepare the region for a future energy crisis. The announcement on Tuesday came as Asean leaders met in Manila, where energy security has been high on the agenda. Read the original at South China Morning Post.",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/asia/east-asia/article/3374776/japan-offers-asean-access-crude-oil-storage-counter-energy-crises",
+      "sourceHome": "https://www.scmp.com/",
+      "author": "Agence France-Presse",
+      "published": {
+        "iso": "2026-11-17T20:45:06+08:00",
+        "display": "17 November 2026, 8:45 PM HKT",
+        "short": "17 Nov, 8:45 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "hong-kong",
+      "image": null,
+      "imageCredit": "",
+      "video": null,
+      "summarySource": "Japan has said that Southeast Asian nations will be able to access its crude oil storage facilities as part of efforts to prepare the region for a future energy crisis. The announcement on Tuesday came as Asean leaders met in Manila, where energy security has been high on the agenda. Addressing regional leaders, Japanese Prime Minister Sanae Takaichi said her country’s “hydro-tanks” would be avail",
+      "related": []
+    },
+    "china-says-xi-trump-putin-to-discuss-world-peace-at-shenzhen-summit-27e020": {
+      "id": "china-says-xi-trump-putin-to-discuss-world-peace-at-shenzhen-summit-27e020",
+      "headline": "China says Xi, Trump, Putin to discuss ‘world peace’ at Shenzhen summit",
+      "deck": "The leaders of China, Russia and the United States will discuss “world peace” when they hold their first trilateral summit in Shenzhen this week, Beijing said on Monday.",
+      "precis": "China says Xi, Trump, Putin to discuss ‘world peace’ at Shenzhen summit. The leaders of China, Russia and the United States will discuss “world peace” when they hold their first trilateral summit in Shenzhen this week, Beijing said on Monday. Presidents Xi Jinping, Donald Trump and Vladimir Putin are due to meet in the southern Chinese city on Thursday on the sidelines of the Asia-Pacific Economic Cooperation […] Read the original at Hong Kong Free Press.",
+      "source": "Hong Kong Free Press",
+      "sourceUrl": "https://hongkongfp.com/2026/11/17/china-says-xi-trump-putin-to-discuss-world-peace-at-shenzhen-summit/",
+      "sourceHome": "https://hongkongfp.com/",
+      "author": "AFP",
+      "published": {
+        "iso": "2026-11-17T09:31:51+08:00",
+        "display": "17 November 2026, 9:31 AM HKT",
+        "short": "17 Nov, 9:31 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "hong-kong",
+      "image": "https://hongkongfp.com/wp-content/uploads/2026/11/xiputintrump-1024x576.jpg",
+      "imageCredit": "Hong Kong Free Press (feed image)",
+      "video": {
+        "youtubeId": "15ErSkYP1L4",
+        "channel": "BBC News",
+        "title": "Inside the Chinese \"AI wonderland\" where Xi will host Trump and Putin #BBCNews",
+        "watchUrl": "https://www.youtube.com/watch?v=15ErSkYP1L4",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/15ErSkYP1L4",
+        "poster": "https://i.ytimg.com/vi/15ErSkYP1L4/hqdefault.jpg"
+      },
+      "summarySource": "The leaders of China, Russia and the United States will discuss “world peace” when they hold their first trilateral summit in Shenzhen this week, Beijing said on Monday. Presidents Xi Jinping, Donald Trump and Vladimir Putin are due to meet in the southern Chinese city on Thursday on the sidelines of the Asia-Pacific Economic Cooperation […]",
+      "related": [
+        "trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china-95ad9d",
+        "trump-is-in-asia-ahead-of-xi-putin-summit-and-tech-leaders-want-huang-ba-3642c1",
+        "china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen-0615b6",
+        "hi-tech-shenzhen-takes-centre-stage-as-xi-sends-chinamaxxing-message-at-bac46a"
+      ]
+    },
+    "cold-front-to-bring-15-c-lows-to-hong-kong-on-friday-rain-next-week-62800f": {
+      "id": "cold-front-to-bring-15-c-lows-to-hong-kong-on-friday-rain-next-week-62800f",
+      "headline": "Cold front to bring 15°C lows to Hong Kong on Friday, rain next week",
+      "deck": "Hongkongers will experience another cold snap towards the weekend, with the Observatory predicting lows of 15 degrees Celsius this Friday.",
+      "precis": "Cold front to bring 15°C lows to Hong Kong on Friday, rain next week, according to Hong Kong Free Press. Hongkongers will experience another cold snap towards the weekend, with the Observatory predicting lows of 15 degrees Celsius this Friday. The weather service expects lows of 18 degrees Celsius on Thursday, with temperatures on Friday ranging from 15 to 18 degrees Celsius. Read the original at Hong Kong Free Press.",
+      "source": "Hong Kong Free Press",
+      "sourceUrl": "https://hongkongfp.com/2026/11/17/cold-front-to-bring-15-c-lows-to-hong-kong-on-friday-rain-next-week/",
+      "sourceHome": "https://hongkongfp.com/",
+      "author": "Tom Grundy",
+      "published": {
+        "iso": "2026-11-17T12:40:42+08:00",
+        "display": "17 November 2026, 12:40 PM HKT",
+        "short": "17 Nov, 12:40 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "hong-kong",
+      "image": "https://hongkongfp.com/wp-content/uploads/2026/11/cold-hk-1024x576.jpg",
+      "imageCredit": "Hong Kong Free Press (feed image)",
+      "video": null,
+      "summarySource": "Hongkongers will experience another cold snap towards the weekend, with the Observatory predicting lows of 15 degrees Celsius this Friday. The weather service expects lows of 18 degrees Celsius on Thursday, with temperatures on Friday ranging from 15 to 18 degrees Celsius. A cold front will cross China’s southern coast from Wednesday, the Observatory said: […]",
+      "related": [
+        "hong-kong-records-14-000-cybersecurity-incidents-in-first-10-months-of-2-37995e"
+      ]
+    },
+    "nobody-wins-the-future-alone-john-lee-calls-for-collaboration-at-apec-4e396f": {
+      "id": "nobody-wins-the-future-alone-john-lee-calls-for-collaboration-at-apec-4e396f",
+      "headline": "‘Nobody wins the future alone’: John Lee calls for collaboration at Apec",
+      "deck": "Hong Kong’s leader has called on Apec delegates to “prosper and win together” to thrive in an increasingly complex global environment as he offered the city as a springboard…",
+      "precis": "‘Nobody wins the future alone’: John Lee calls for collaboration at Apec, according to South China Morning Post. Hong Kong’s leader has called on Apec delegates to “prosper and win together” to thrive in an increasingly complex global environment as he offered the city as a springboard for businesses seeking to enter the mainland Chinese market. Chief Executive John Lee Ka-chiu told hundreds of business delegates at the Asia-Pacific Economic Cooperation forum’s CEO Summit in Shenzhen on Tuesday that the Greater Bay Area, which combines Hong Kong, Macau and nine cities in Guangdong province, was a proven... Read the original at South China Morning Post.",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/hong-kong/politics/article/3374730/nobody-wins-future-alone-john-lee-calls-collaboration-apec",
+      "sourceHome": "https://www.scmp.com/",
+      "author": "Matthew Cheng,Denise Tsang",
+      "published": {
+        "iso": "2026-11-17T17:12:54+08:00",
+        "display": "17 November 2026, 5:12 PM HKT",
+        "short": "17 Nov, 5:12 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "hong-kong",
+      "image": null,
+      "imageCredit": "",
+      "video": null,
+      "summarySource": "Hong Kong’s leader has called on Apec delegates to “prosper and win together” to thrive in an increasingly complex global environment as he offered the city as a springboard for businesses seeking to enter the mainland Chinese market. Chief Executive John Lee Ka-chiu told hundreds of business delegates at the Asia-Pacific Economic Cooperation forum’s CEO Summit in Shenzhen on Tuesday that the Grea",
+      "related": []
+    },
+    "baidu-xiaomi-ceos-warn-of-growing-gap-between-ai-hype-and-returns-357aa4": {
+      "id": "baidu-xiaomi-ceos-warn-of-growing-gap-between-ai-hype-and-returns-357aa4",
+      "headline": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+      "deck": "Amid mounting concerns of an artificial intelligence bubble and fresh market jitters following the resignation of Nvidia CEO Jensen Huang, the leaders of two of China’s biggest…",
+      "precis": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns, according to South China Morning Post. Amid mounting concerns of an artificial intelligence bubble and fresh market jitters following the resignation of Nvidia CEO Jensen Huang, the leaders of two of China’s biggest tech giants have urged the industry to focus on building practical applications, warning that massive investments in the technology are outpacing commercial returns. Speaking at the Asia-Pacific Economic Cooperation (Apec) CEO Summit in Shenzhen on Tuesday, Baidu founder and CEO Robin Li Yanhong and Xiaomi founder and CEO... Read the original at South China Morning Post.",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+      "sourceHome": "https://www.scmp.com/",
+      "author": "Vincent Chow,Iris Deng",
+      "published": {
+        "iso": "2026-11-17T20:30:09+08:00",
+        "display": "17 November 2026, 8:30 PM HKT",
+        "short": "17 Nov, 8:30 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "hong-kong",
+      "image": null,
+      "imageCredit": "",
+      "video": null,
+      "summarySource": "Amid mounting concerns of an artificial intelligence bubble and fresh market jitters following the resignation of Nvidia CEO Jensen Huang, the leaders of two of China’s biggest tech giants have urged the industry to focus on building practical applications, warning that massive investments in the technology are outpacing commercial returns. Speaking at the Asia-Pacific Economic Cooperation (Apec) ",
+      "related": []
+    },
+    "taiwan-tracks-2-russian-warplanes-off-eastern-coast-ahead-of-apec-summit-b688a2": {
+      "id": "taiwan-tracks-2-russian-warplanes-off-eastern-coast-ahead-of-apec-summit-b688a2",
+      "headline": "Taiwan tracks 2 Russian warplanes off eastern coast ahead of Apec summit",
+      "deck": "Taiwan’s military said it closely monitored two Russian warplanes flying near the island on Tuesday, the same day that Moscow’s military aviation activity prompted fighter jet…",
+      "precis": "Taiwan tracks 2 Russian warplanes off eastern coast ahead of Apec summit, according to South China Morning Post. Taiwan’s military said it closely monitored two Russian warplanes flying near the island on Tuesday, the same day that Moscow’s military aviation activity prompted fighter jet scrambles in Japan and South Korea. The aircraft were detected early in the day approaching from the northeast before flying along the island’s eastern coast and departing to the southeast of Taitung county, according to the Taiwanese defence ministry. Read the original at South China Morning Post.",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/china/politics/article/3374750/taiwan-tracks-2-russian-warplanes-eastern-coast-ahead-apec-summit",
+      "sourceHome": "https://www.scmp.com/",
+      "author": "Lawrence Chung",
+      "published": {
+        "iso": "2026-11-17T19:00:07+08:00",
+        "display": "17 November 2026, 7:00 PM HKT",
+        "short": "17 Nov, 7:00 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "hong-kong",
+      "image": null,
+      "imageCredit": "",
+      "video": null,
+      "summarySource": "Taiwan’s military said it closely monitored two Russian warplanes flying near the island on Tuesday, the same day that Moscow’s military aviation activity prompted fighter jet scrambles in Japan and South Korea. The aircraft were detected early in the day approaching from the northeast before flying along the island’s eastern coast and departing to the southeast of Taitung county, according to the",
+      "related": [
+        "trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china-95ad9d",
+        "trump-is-in-asia-ahead-of-xi-putin-summit-and-tech-leaders-want-huang-ba-3642c1",
+        "hi-tech-shenzhen-takes-centre-stage-as-xi-sends-chinamaxxing-message-at-bac46a",
+        "china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen-0615b6"
+      ]
+    },
+    "hong-kong-records-14-000-cybersecurity-incidents-in-first-10-months-of-2-37995e": {
+      "id": "hong-kong-records-14-000-cybersecurity-incidents-in-first-10-months-of-2-37995e",
+      "headline": "Hong Kong records 14,000 cybersecurity incidents in first 10 months of 2026 as lawmaker urges tougher penalties",
+      "deck": "Hong Kong has recorded about 14,000 cybersecurity incidents in the first 10 months of this year, a seven per cent year-on-year increase, as a lawmaker argued that tougher…",
+      "precis": "Hong Kong records 14,000 cybersecurity incidents in first 10 months of 2026 as lawmaker urges tougher penalties, according to Hong Kong Free Press. Hong Kong has recorded about 14,000 cybersecurity incidents in the first 10 months of this year, a seven per cent year-on-year increase, as a lawmaker argued that tougher penalties would compel companies to strengthen defences for their systems and customer data. The figures came from the Hong Kong Computer Emergency Response Team Coordination Centre, which […] Read the original at Hong Kong Free Press.",
+      "source": "Hong Kong Free Press",
+      "sourceUrl": "https://hongkongfp.com/2026/11/17/hong-kong-records-14000-cybersecurity-incidents-in-first-10-months-of-2026-as-lawmaker-urges-tougher-penalties/",
+      "sourceHome": "https://hongkongfp.com/",
+      "author": "Hans Tse",
+      "published": {
+        "iso": "2026-11-17T15:58:50+08:00",
+        "display": "17 November 2026, 3:58 PM HKT",
+        "short": "17 Nov, 3:58 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "hong-kong",
+      "image": "https://hongkongfp.com/wp-content/uploads/2026/11/RENAME-before-upload-44-1024x576.jpg",
+      "imageCredit": "Hong Kong Free Press (feed image)",
+      "video": null,
+      "summarySource": "Hong Kong has recorded about 14,000 cybersecurity incidents in the first 10 months of this year, a seven per cent year-on-year increase, as a lawmaker argued that tougher penalties would compel companies to strengthen defences for their systems and customer data. The figures came from the Hong Kong Computer Emergency Response Team Coordination Centre, which […]",
+      "related": [
+        "cold-front-to-bring-15-c-lows-to-hong-kong-on-friday-rain-next-week-62800f"
+      ]
+    },
+    "china-and-canada-agree-on-fresh-tariff-relief-as-xi-and-carney-continue-b7bda8": {
+      "id": "china-and-canada-agree-on-fresh-tariff-relief-as-xi-and-carney-continue-b7bda8",
+      "headline": "China and Canada agree on fresh tariff relief as Xi and Carney continue thaw",
+      "deck": "Chinese President Xi Jinping and Canadian Prime Minister Mark Carney have agreed on broader trade concessions as Ottawa seeks to reset relations with Beijing amid growing trade…",
+      "precis": "China and Canada agree on fresh tariff relief as Xi and Carney continue thaw, according to South China Morning Post. Chinese President Xi Jinping and Canadian Prime Minister Mark Carney have agreed on broader trade concessions as Ottawa seeks to reset relations with Beijing amid growing trade tensions with the United States. The two leaders met ahead of the Asia-Pacific Economic Cooperation leaders’ meeting in Shenzhen on Tuesday, where they discussed ways of managing their differences. Read the original at South China Morning Post.",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/china/diplomacy/article/3374769/china-and-canada-agree-fresh-tariff-reliefs-thaw-continues-xi-carney-meeting",
+      "sourceHome": "https://www.scmp.com/",
+      "author": "Cao Jiaxuan",
+      "published": {
+        "iso": "2026-11-17T18:54:25+08:00",
+        "display": "17 November 2026, 6:54 PM HKT",
+        "short": "17 Nov, 6:54 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "hong-kong",
+      "image": null,
+      "imageCredit": "",
+      "video": {
+        "youtubeId": "k0Wn3EejQig",
+        "channel": "FRANCE 24 English",
+        "title": "China, Canada agree to further reduce tariffs at APEC summit in Shenzhen • FRANCE 24 English",
+        "watchUrl": "https://www.youtube.com/watch?v=k0Wn3EejQig",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/k0Wn3EejQig",
+        "poster": "https://i.ytimg.com/vi/k0Wn3EejQig/hqdefault.jpg"
+      },
+      "summarySource": "Chinese President Xi Jinping and Canadian Prime Minister Mark Carney have agreed on broader trade concessions as Ottawa seeks to reset relations with Beijing amid growing trade tensions with the United States. The two leaders met ahead of the Asia-Pacific Economic Cooperation leaders’ meeting in Shenzhen on Tuesday, where they discussed ways of managing their differences. Xi, who was meeting the C",
+      "related": [
+        "china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen-0615b6"
+      ]
+    },
+    "china-and-vietnam-should-weather-the-storm-together-xi-tells-lam-in-shen-c8fbb6": {
+      "id": "china-and-vietnam-should-weather-the-storm-together-xi-tells-lam-in-shen-c8fbb6",
+      "headline": "China and Vietnam should ‘weather the storm together’, Xi tells Lam in Shenzhen",
+      "deck": "Chinese President Xi Jinping has pledged to deepen connectivity between China and Vietnam and better integrate their shared interests in a meeting with his Vietnamese…",
+      "precis": "China and Vietnam should ‘weather the storm together’, Xi tells Lam in Shenzhen, according to South China Morning Post. Chinese President Xi Jinping has pledged to deepen connectivity between China and Vietnam and better integrate their shared interests in a meeting with his Vietnamese counterpart To Lam. President Lam arrived in Shenzhen earlier on Tuesday for the Apec summit. Read the original at South China Morning Post.",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/china/diplomacy/article/3374763/china-and-vietnam-should-weather-storm-together-xi-tells-lam-shenzhen",
+      "sourceHome": "https://www.scmp.com/",
+      "author": "Carol Yang",
+      "published": {
+        "iso": "2026-11-17T18:23:36+08:00",
+        "display": "17 November 2026, 6:23 PM HKT",
+        "short": "17 Nov, 6:23 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "hong-kong",
+      "image": null,
+      "imageCredit": "",
+      "video": {
+        "youtubeId": "e2RKUwU1TPA",
+        "channel": "Reuters",
+        "title": "Why Trump's new AI chip crackdown matters before Xi talks",
+        "watchUrl": "https://www.youtube.com/watch?v=e2RKUwU1TPA",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/e2RKUwU1TPA",
+        "poster": "https://i.ytimg.com/vi/e2RKUwU1TPA/hqdefault.jpg"
+      },
+      "summarySource": "Chinese President Xi Jinping has pledged to deepen connectivity between China and Vietnam and better integrate their shared interests in a meeting with his Vietnamese counterpart To Lam. President Lam arrived in Shenzhen earlier on Tuesday for the Apec summit. Vietnam will host next year’s gathering. Calling for stronger mutual trust, unity and all-round cooperation, Xi said the two countries shou",
+      "related": [
+        "china-says-xi-trump-putin-to-discuss-world-peace-at-shenzhen-summit-27e020",
+        "china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen-0615b6"
+      ]
+    },
+    "civil-servants-do-not-mind-working-off-hours-when-required-official-says-e38de7": {
+      "id": "civil-servants-do-not-mind-working-off-hours-when-required-official-says-e38de7",
+      "headline": "Civil servants ‘do not mind’ working off-hours when required, official says, ruling out ‘right to disconnect’ law",
+      "deck": "A Hong Kong official has said civil servants do not mind working on weekends when called upon, after a lawmaker asked if the city would consider implementing a “right to…",
+      "precis": "Civil servants ‘do not mind’ working off-hours when required, official says, ruling out ‘right to disconnect’ law. A Hong Kong official has said civil servants do not mind working on weekends when called upon, after a lawmaker asked if the city would consider implementing a “right to disconnect” law for government employees. Secretary for the Civil Service Ingrid Yeung said during a Legislative Council meeting on Monday that the government-wide mobilisation protocol […] Read the original at Hong Kong Free Press.",
+      "source": "Hong Kong Free Press",
+      "sourceUrl": "https://hongkongfp.com/2026/11/17/civil-servants-do-not-mind-working-off-hours-when-required-official-says-ruling-out-right-to-disconnect-law/",
+      "sourceHome": "https://hongkongfp.com/",
+      "author": "Hillary Leung",
+      "published": {
+        "iso": "2026-11-17T14:49:41+08:00",
+        "display": "17 November 2026, 2:49 PM HKT",
+        "short": "17 Nov, 2:49 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "hong-kong",
+      "image": "https://hongkongfp.com/wp-content/uploads/2026/11/Civil-servants-1024x576.jpg",
+      "imageCredit": "Hong Kong Free Press (feed image)",
+      "video": null,
+      "summarySource": "A Hong Kong official has said civil servants do not mind working on weekends when called upon, after a lawmaker asked if the city would consider implementing a “right to disconnect” law for government employees. Secretary for the Civil Service Ingrid Yeung said during a Legislative Council meeting on Monday that the government-wide mobilisation protocol […]",
+      "related": []
+    },
+    "thailand-to-drop-us-tariffs-buy-2-6b-in-agricultural-products-under-new-e9a729": {
+      "id": "thailand-to-drop-us-tariffs-buy-2-6b-in-agricultural-products-under-new-e9a729",
+      "headline": "Thailand to drop US tariffs, buy $2.6b in agricultural products under new trade deal",
+      "deck": "This live article is freely available to our registered users.",
+      "precis": "Thailand to drop US tariffs, buy $2.6b in agricultural products under new trade deal, according to South China Morning Post. This live article is freely available to our registered users. Please log in or create an account. Read the original at South China Morning Post.",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/asia/southeast-asia/article/3374740/donald-trump-arrives-manila-speak-asean-summit-heading-china",
+      "sourceHome": "https://www.scmp.com/",
+      "author": "SCMP Reporters",
+      "published": {
+        "iso": "2026-11-17T17:36:45+08:00",
+        "display": "17 November 2026, 5:36 PM HKT",
+        "short": "17 Nov, 5:36 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "hong-kong",
+      "image": null,
+      "imageCredit": "",
+      "video": null,
+      "summarySource": "This live article is freely available to our registered users. Please log in or create an account. The United States president Donald Trump has arrived in Manila where he will speak at the Quad leaders summit. He has just over 20 hours for a state visit that Manila pushed hard to secure. Manila adjusted the summit calendar to accommodate Trump’s preference for a short layover en route to the Asia-",
+      "related": []
+    },
+    "china-vows-to-take-necessary-measures-against-us-ai-chip-restrictions-as-bf87b2": {
+      "id": "china-vows-to-take-necessary-measures-against-us-ai-chip-restrictions-as-bf87b2",
+      "headline": "China vows to take ‘necessary measures’ against US AI chip restrictions, as investors brace for Nvidia’s results – business live",
+      "deck": "Rolling coverage of the latest economic and financial news Apec and Asean summits live: protests await Trump in Manila, as Xi greets leaders in Shenzhen China has threatened to…",
+      "precis": "China vows to take ‘necessary measures’ against US AI chip restrictions, as investors brace for Nvidia’s results – business live, according to The Guardian. Rolling coverage of the latest economic and financial news Apec and Asean summits live: protests await Trump in Manila, as Xi greets leaders in Shenzhen China has threatened to retaliate against the US after Washington tightened restrictions on remote access to AI chips and servers. At a press conference on Tuesday, China’s foreign ministry spokesperson Guo Jiakun said Beijing would take “necessary measures” to safeguard its own interests, saying: “The US has repeatedly overstretched the concept of national security, abused export controls and even interfered in China’s normal trade and technological Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Graeme Wearden",
+      "published": {
+        "iso": "2026-11-17T19:47:31+08:00",
+        "display": "17 November 2026, 7:47 PM HKT",
+        "short": "17 Nov, 7:47 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "business",
+      "image": "https://i.guim.co.uk/img/media/ba481d82e267325ef8519025c0b17f3d0b3e89be/478_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=31f862bc58f9d4915592de39fbc28520",
+      "imageCredit": "The Guardian (feed image)",
+      "video": {
+        "youtubeId": "uUUlNVpCeNw",
+        "channel": "Reuters",
+        "title": "Trump arrives in Asia as US tightens AI chip rules on China | Reuters World News",
+        "watchUrl": "https://www.youtube.com/watch?v=uUUlNVpCeNw",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/uUUlNVpCeNw",
+        "poster": "https://i.ytimg.com/vi/uUUlNVpCeNw/hqdefault.jpg"
+      },
+      "summarySource": "Rolling coverage of the latest economic and financial news Apec and Asean summits live: protests await Trump in Manila, as Xi greets leaders in Shenzhen China has threatened to retaliate against the US after Washington tightened restrictions on remote access to AI chips and servers. At a press conference on Tuesday, China’s foreign ministry spokesperson Guo Jiakun said Beijing would take “necessar",
+      "related": [
+        "how-new-us-chip-restrictions-on-south-east-asia-will-hit-china-0b72aa",
+        "singapore-in-damage-control-after-nvidia-scandal-exposes-china-loophole-260466",
+        "nvidia-partner-megaspeed-being-investigated-by-us-government-over-chip-e-acf948"
+      ]
+    },
+    "government-must-act-now-or-lose-royal-mail-former-minister-warns-1b20f8": {
+      "id": "government-must-act-now-or-lose-royal-mail-former-minister-warns-1b20f8",
+      "headline": "Government must act now or lose Royal Mail, former minister warns",
+      "deck": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+      "precis": "Government must act now or lose Royal Mail, former minister warns. The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\". Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T20:43:07+08:00",
+        "display": "17 November 2026, 8:43 PM HKT",
+        "short": "17 Nov, 8:43 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "business",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9890/live/489f1940-e1c1-11f1-a094-5fdc692f3e33.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+      "related": [
+        "automated-warfare-is-already-here-now-governments-must-restrain-it-helen-b405d8"
+      ]
+    },
+    "immigration-arrests-after-organised-crime-blitz-fde979": {
+      "id": "immigration-arrests-after-organised-crime-blitz-fde979",
+      "headline": "Immigration arrests after organised crime blitz",
+      "deck": "Eighteen people were arrested for a range of suspected crimes including modern slavery, police say.",
+      "precis": "Immigration arrests after organised crime blitz, according to BBC News. Eighteen people were arrested for a range of suspected crimes including modern slavery, police say. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T18:49:58+08:00",
+        "display": "17 November 2026, 6:49 PM HKT",
+        "short": "17 Nov, 6:49 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "business",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f280/live/05e985f0-e274-11f1-b639-73d1df360b76.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "Eighteen people were arrested for a range of suspected crimes including modern slavery, police say.",
+      "related": []
+    },
+    "neet-ideas-what-s-in-alan-milburn-s-report-on-young-people-not-in-educat-454f3d": {
+      "id": "neet-ideas-what-s-in-alan-milburn-s-report-on-young-people-not-in-educat-454f3d",
+      "headline": "Neet ideas: what’s in Alan Milburn’s report on young people not in education, employment or training?",
+      "deck": "Former minister’s 278-page report calls for changes to employment regulations, education, healthcare and benefits Business live – latest updates Who are the Neets?",
+      "precis": "Neet ideas: what’s in Alan Milburn’s report on young people not in education, employment or training? Former minister’s 278-page report calls for changes to employment regulations, education, healthcare and benefits Business live – latest updates Who are the Neets? UK youth job crisis in five charts Milburn urges Burnham to spend billions on young people Five months on from a first report detailing the growing crisis of young people who are not in education, employment or training (Neet), Alan Milburn has produced his recommendations on how to tackle it. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/17/neet-alan-milburn-report-young-people-not-in-education-employment-or-training",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Peter Walker Senior political correspondent",
+      "published": {
+        "iso": "2026-11-17T19:30:35+08:00",
+        "display": "17 November 2026, 7:30 PM HKT",
+        "short": "17 Nov, 7:30 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "business",
+      "image": "https://i.guim.co.uk/img/media/61785efa43a9a7250b2d43d3918c53814ed1a016/1415_0_3225_2580/master/3225.jpg?width=140&quality=85&auto=format&fit=max&s=5c499fae58395f013504bdf1a2898dac",
+      "imageCredit": "The Guardian (feed image)",
+      "video": {
+        "youtubeId": "vXxO0A-3bC4",
+        "channel": "BBC News",
+        "title": "Neets young people at risk of being 'lost generation', Alan Milburn says ahead of report | BBC News",
+        "watchUrl": "https://www.youtube.com/watch?v=vXxO0A-3bC4",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/vXxO0A-3bC4",
+        "poster": "https://i.ytimg.com/vi/vXxO0A-3bC4/hqdefault.jpg"
+      },
+      "summarySource": "Former minister’s 278-page report calls for changes to employment regulations, education, healthcare and benefits Business live – latest updates Who are the Neets? UK youth job crisis in five charts Milburn urges Burnham to spend billions on young people Five months on from a first report detailing the growing crisis of young people who are not in education, employment or training (Neet), Alan Mil",
+      "related": [
+        "why-alan-milburn-s-pip-plan-is-a-mistake-letters-a2f5d9",
+        "ben-jennings-on-the-jobs-crisis-for-young-people-cartoon-2c7be6"
+      ]
+    },
+    "tobacco-group-imperial-brands-to-axe-up-to-4-600-jobs-as-it-uses-more-ai-34397e": {
+      "id": "tobacco-group-imperial-brands-to-axe-up-to-4-600-jobs-as-it-uses-more-ai-34397e",
+      "headline": "Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI",
+      "deck": "Owner of JPS cigarettes, Golden Virginia tobacco, Blu vapes and Rizla has launched huge cost-cutting drive Business live – latest updates Imperial Brands, the owner of Davidoff…",
+      "precis": "Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI, according to The Guardian. Owner of JPS cigarettes, Golden Virginia tobacco, Blu vapes and Rizla has launched huge cost-cutting drive Business live – latest updates Imperial Brands, the owner of Davidoff cigarettes and Blu vapes, is cutting up to 4,600 jobs in a huge cost-saving drive as it uses more AI and other technologies. The Bristol-based company said this year 2,100 roles would go globally, and it plans a further reduction of between 2,100 and 2,500 jobs by the end of 2030. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/17/uk-tobacco-imperial-brands-cut-jobs-cigarettes-ai",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Julia Kollewe",
+      "published": {
+        "iso": "2026-11-17T17:01:25+08:00",
+        "display": "17 November 2026, 5:01 PM HKT",
+        "short": "17 Nov, 5:01 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "business",
+      "image": "https://i.guim.co.uk/img/media/27552738004164c7dde492ffdc58cef3b61776f6/615_0_3240_2592/master/3240.jpg?width=140&quality=85&auto=format&fit=max&s=36f699f8d6cae90a04da6a0d09ae5f70",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Owner of JPS cigarettes, Golden Virginia tobacco, Blu vapes and Rizla has launched huge cost-cutting drive Business live – latest updates Imperial Brands, the owner of Davidoff cigarettes and Blu vapes, is cutting up to 4,600 jobs in a huge cost-saving drive as it uses more AI and other technologies. The Bristol-based company said this year 2,100 roles would go globally, and it plans a further red",
+      "related": []
+    },
+    "uk-unemployment-unexpectedly-eases-to-4-6-as-government-prepares-to-rele-ec207f": {
+      "id": "uk-unemployment-unexpectedly-eases-to-4-6-as-government-prepares-to-rele-ec207f",
+      "headline": "UK unemployment unexpectedly eases to 4.6%, as government prepares to release Milburn report",
+      "deck": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work Milburn urges Burnham to spend billions on young people Who are the Neets?",
+      "precis": "UK unemployment unexpectedly eases to 4.6%, as government prepares to release Milburn report, according to The Guardian. Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work Milburn urges Burnham to spend billions on young people Who are the Neets? UK youth job crisis in five charts Business live – latest updates The UK unemployment rate has unexpectedly fallen as the government prepares to release a major report on the youth jobs crisis . Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Phillip Inman",
+      "published": {
+        "iso": "2026-11-17T16:05:09+08:00",
+        "display": "17 November 2026, 4:05 PM HKT",
+        "short": "17 Nov, 4:05 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "business",
+      "image": "https://i.guim.co.uk/img/media/fcacde2d064f282a10c275f3fffebc930491811a/528_156_3303_2643/master/3303.jpg?width=140&quality=85&auto=format&fit=max&s=52028965ab5e15a0547c89e69e1919f6",
+      "imageCredit": "The Guardian (feed image)",
+      "video": {
+        "youtubeId": "20Y3LOrvkkQ",
+        "channel": "BBC News",
+        "title": "Government must prioritise young people or risk a 'lost generation', Alan Milburn says. #BBCNews",
+        "watchUrl": "https://www.youtube.com/watch?v=20Y3LOrvkkQ",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/20Y3LOrvkkQ",
+        "poster": "https://i.ytimg.com/vi/20Y3LOrvkkQ/hqdefault.jpg"
+      },
+      "summarySource": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work Milburn urges Burnham to spend billions on young people Who are the Neets? UK youth job crisis in five charts Business live – latest updates The UK unemployment rate has unexpectedly fallen as the government prepares to release a major report on the youth jobs crisis . The unemployment rate was 4.6%",
+      "related": []
+    },
+    "can-this-experimental-orchard-save-the-uk-s-cider-industry-4cd462": {
+      "id": "can-this-experimental-orchard-save-the-uk-s-cider-industry-4cd462",
+      "headline": "Can this experimental orchard save the UK’s cider industry?",
+      "deck": "Farmers are utilising science and nature to help orchards adapt and thrive in the face of shifting temperatures, rainfall and pests On Myrtle Farm in Somerset, there are…",
+      "precis": "Can this experimental orchard save the UK’s cider industry? Farmers are utilising science and nature to help orchards adapt and thrive in the face of shifting temperatures, rainfall and pests On Myrtle Farm in Somerset, there are thousands of apple trees laid out in rows of 100. Over the past year, each has endured the same wet winter and long summer drought . Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/nov/17/farming-apple-growers-climate-breakdown-thatchers-cider-wildflowers-soil-water-insects-aoe",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Donna Ferguson. Photographs by Urszula Sołtys for the Guardian",
+      "published": {
+        "iso": "2026-11-17T16:00:08+08:00",
+        "display": "17 November 2026, 4:00 PM HKT",
+        "short": "17 Nov, 4:00 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "business",
+      "image": "https://i.guim.co.uk/img/media/c16ddee7422bfaf3bc19a0615c31918926df7941/229_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ce9f669a59bede67cb2654ab09685503",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Farmers are utilising science and nature to help orchards adapt and thrive in the face of shifting temperatures, rainfall and pests On Myrtle Farm in Somerset, there are thousands of apple trees laid out in rows of 100. Over the past year, each has endured the same wet winter and long summer drought . Now, the different ways each tree responded to these challenges are being analysed in trials that",
+      "related": []
+    },
+    "customers-report-service-outages-at-major-us-banks-458954": {
+      "id": "customers-report-service-outages-at-major-us-banks-458954",
+      "headline": "Customers report service outages at major US banks",
+      "deck": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "precis": "Customers report service outages at major US banks, according to BBC News. Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\". Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T08:18:01+08:00",
+        "display": "17 November 2026, 8:18 AM HKT",
+        "short": "17 Nov, 8:18 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "business",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "related": [
+        "customers-report-difficulty-accessing-online-services-at-major-us-banks-59e6ae"
+      ]
+    },
+    "we-couldn-t-afford-a-house-alone-so-we-bought-one-with-strangers-e4c707": {
+      "id": "we-couldn-t-afford-a-house-alone-so-we-bought-one-with-strangers-e4c707",
+      "headline": "We couldn't afford a house alone, so we bought one with strangers",
+      "deck": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
+      "precis": "We couldn't afford a house alone, so we bought one with strangers, according to BBC News. People who can't afford to get on the housing ladder are buying homes with someone they don't know. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T08:00:02+08:00",
+        "display": "17 November 2026, 8:00 AM HKT",
+        "short": "17 Nov, 8:00 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "business",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da1d/live/2cfb5880-e265-11f1-900c-895604014268.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
+      "related": []
+    },
+    "openai-sued-by-california-over-hugging-face-attack-8c2c38": {
+      "id": "openai-sued-by-california-over-hugging-face-attack-8c2c38",
+      "headline": "OpenAI sued by California over Hugging Face attack",
+      "deck": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
+      "precis": "OpenAI sued by California over Hugging Face attack, according to BBC News. Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T07:12:24+08:00",
+        "display": "17 November 2026, 7:12 AM HKT",
+        "short": "17 Nov, 7:12 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "business",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
+      "related": [
+        "california-sues-openai-over-safety-concerns-after-rogue-agent-hacking-7d4307"
+      ]
+    },
+    "new-rule-aims-to-close-loophole-on-chip-exports-3304f5": {
+      "id": "new-rule-aims-to-close-loophole-on-chip-exports-3304f5",
+      "headline": "New rule aims to close loophole on chip exports",
+      "deck": "The Commerce Department released a new rule designed to make it harder for China to gain access to America's most powerful computer chips using third-country data centers.",
+      "precis": "New rule aims to close loophole on chip exports, according to NPR. The Commerce Department released a new rule designed to make it harder for China to gain access to America's most powerful computer chips using third-country data centers. Read the original at NPR.",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/11/16/nx-s1-6042918/new-rule-aims-to-close-loophole-on-chip-exports",
+      "sourceHome": "https://www.npr.org/",
+      "author": "Scott Horsley",
+      "published": {
+        "iso": "2026-11-17T06:08:48+08:00",
+        "display": "17 November 2026, 6:08 AM HKT",
+        "short": "17 Nov, 6:08 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "business",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6042918",
+      "imageCredit": "NPR (feed image)",
+      "video": {
+        "youtubeId": "uUUlNVpCeNw",
+        "channel": "Reuters",
+        "title": "Trump arrives in Asia as US tightens AI chip rules on China | Reuters World News",
+        "watchUrl": "https://www.youtube.com/watch?v=uUUlNVpCeNw",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/uUUlNVpCeNw",
+        "poster": "https://i.ytimg.com/vi/uUUlNVpCeNw/hqdefault.jpg"
+      },
+      "summarySource": "The Commerce Department released a new rule designed to make it harder for China to gain access to America's most powerful computer chips using third-country data centers.",
+      "related": [
+        "nvidia-partner-megaspeed-being-investigated-by-us-government-over-chip-e-acf948"
+      ]
+    },
+    "customers-report-difficulty-accessing-online-services-at-major-us-banks-59e6ae": {
+      "id": "customers-report-difficulty-accessing-online-services-at-major-us-banks-59e6ae",
+      "headline": "Customers report difficulty accessing online services at major US banks",
+      "deck": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their…",
+      "precis": "Customers report difficulty accessing online services at major US banks, according to The Guardian. Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan Chase caused ripple effects throughout the financial system. Chase said the technical problems were not a systemic issue and were not the result of a cyber-attack, and that it was working to bring banking services back online. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Lucy Campbell and agencies",
+      "published": {
+        "iso": "2026-11-17T06:01:40+08:00",
+        "display": "17 November 2026, 6:01 AM HKT",
+        "short": "17 Nov, 6:01 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "business",
+      "image": "https://i.guim.co.uk/img/media/3646b72898ae901bf0c2c1a9dbe0b69194df306e/452_0_4515_3612/master/4515.jpg?width=140&quality=85&auto=format&fit=max&s=90bdf53e095252ef6b02eadb04ea1242",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan Chase caused ripple effects throughout the financial system. Chase said the technical problems wer",
+      "related": [
+        "customers-report-service-outages-at-major-us-banks-458954"
+      ]
+    },
+    "california-sues-openai-over-safety-concerns-after-rogue-agent-hacking-7d4307": {
+      "id": "california-sues-openai-over-safety-concerns-after-rogue-agent-hacking-7d4307",
+      "headline": "California sues OpenAI over safety concerns after rogue agent hacking",
+      "deck": "The lawsuit stems from an earlier incident where the tech company’s products hacked into the open-source platform Hugging Face California sued OpenAI on Monday, accusing the…",
+      "precis": "California sues OpenAI over safety concerns after rogue agent hacking, according to The Guardian. The lawsuit stems from an earlier incident where the tech company’s products hacked into the open-source platform Hugging Face California sued OpenAI on Monday, accusing the artificial intelligence titan of developing its technology without safety or the public’s interest in mind. The lawsuit concerns an incident earlier this year where OpenAI agents – semi-autonomous AI software that can carry out digital actions on behalf of users – launched a cyber-attack into the open-source AI platform Hugging Face. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Dara Kerr",
+      "published": {
+        "iso": "2026-11-17T05:41:10+08:00",
+        "display": "17 November 2026, 5:41 AM HKT",
+        "short": "17 Nov, 5:41 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "business",
+      "image": "https://i.guim.co.uk/img/media/a82ee4985c0d264e0ee6c830a014ad1e4ab73ec0/1050_51_3174_2541/master/3174.jpg?width=140&quality=85&auto=format&fit=max&s=cfdcd96a4156781b08c3275e622af3b4",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "The lawsuit stems from an earlier incident where the tech company’s products hacked into the open-source platform Hugging Face California sued OpenAI on Monday, accusing the artificial intelligence titan of developing its technology without safety or the public’s interest in mind. The lawsuit concerns an incident earlier this year where OpenAI agents – semi-autonomous AI software that can carry ou",
+      "related": [
+        "openai-sued-by-california-over-hugging-face-attack-8c2c38"
+      ]
+    },
+    "london-city-s-goodwin-gets-first-england-call-up-0612e0": {
+      "id": "london-city-s-goodwin-gets-first-england-call-up-0612e0",
+      "headline": "London City's Goodwin gets first England call-up",
+      "deck": "London City Lionesses forward Izzy Goodwin is named in the England squad for the first time for the World Cup qualifying play-off against Ukraine.",
+      "precis": "London City's Goodwin gets first England call-up, according to BBC News. London City Lionesses forward Izzy Goodwin is named in the England squad for the first time for the World Cup qualifying play-off against Ukraine. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cr9d7pw90x14o",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T19:06:33+08:00",
+        "display": "17 November 2026, 7:06 PM HKT",
+        "short": "17 Nov, 7:06 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e6b/live/78344ae0-e275-11f1-b639-73d1df360b76.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "London City Lionesses forward Izzy Goodwin is named in the England squad for the first time for the World Cup qualifying play-off against Ukraine.",
+      "related": []
+    },
+    "singapore-outclassed-in-7-0-defeat-by-brazil-as-vinicius-jr-scores-hat-t-cb49c7": {
+      "id": "singapore-outclassed-in-7-0-defeat-by-brazil-as-vinicius-jr-scores-hat-t-cb49c7",
+      "headline": "Singapore outclassed in 7-0 defeat by Brazil as Vinicius Jr scores hat-trick",
+      "deck": "The nations clashed as part of the inaugural Mizuho Blue Challenge, which saw Singapore go down 4-1 to Paraguay on Tuesday.",
+      "precis": "Singapore outclassed in 7-0 defeat by Brazil as Vinicius Jr scores hat-trick, according to CNA. The nations clashed as part of the inaugural Mizuho Blue Challenge, which saw Singapore go down 4-1 to Paraguay on Tuesday. Read the original at CNA.",
+      "source": "CNA",
+      "sourceUrl": "https://www.channelnewsasia.com/singapore/singapore-lions-brazil-mizuho-blue-challenge-6558566",
+      "sourceHome": "https://www.channelnewsasia.com/",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T20:16:00+08:00",
+        "display": "17 November 2026, 8:16 PM HKT",
+        "short": "17 Nov, 8:16 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "sport",
+      "image": "https://dam.mediacorp.sg/image/upload/s--VpySSZBI--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/11/17/wal_9371.jpg?itok=YW4rmXWM",
+      "imageCredit": "CNA (feed image)",
+      "video": null,
+      "summarySource": "The nations clashed as part of the inaugural Mizuho Blue Challenge, which saw Singapore go down 4-1 to Paraguay on Tuesday.",
+      "related": []
+    },
+    "why-jordan-cox-refuses-to-take-a-breather-if-england-want-me-i-ll-be-the-38c1bd": {
+      "id": "why-jordan-cox-refuses-to-take-a-breather-if-england-want-me-i-ll-be-the-38c1bd",
+      "headline": "Why Jordan Cox refuses to take a breather: ‘If England want me, I’ll be there’",
+      "deck": "Wicketkeeper-batter could have represented Australia but was destined to play for his country of birth after watching the 2010-11 Ashes at 10 In an era of sardine tin schedules…",
+      "precis": "Why Jordan Cox refuses to take a breather: ‘If England want me, I’ll be there’, according to The Guardian. Wicketkeeper-batter could have represented Australia but was destined to play for his country of birth after watching the 2010-11 Ashes at 10 In an era of sardine tin schedules and franchise teams hoping to turn heads, it was refreshing to hear Jordan Cox at the beautiful Bellerive Oval and state how desperate he is to play for England as much as is humanly possible. When the squads for this Australia tour were being discussed, the selector Marcus North gave the wicketkeeper-batter the option to sit out the Twenty20 leg before taking on South Africa’s imposing Test attack next month. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/nov/17/jordan-cox-england-australia-odi-cricket",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Ali Martin in Hobart",
+      "published": {
+        "iso": "2026-11-17T18:36:01+08:00",
+        "display": "17 November 2026, 6:36 PM HKT",
+        "short": "17 Nov, 6:36 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "sport",
+      "image": "https://i.guim.co.uk/img/media/84f204de6135e5df1db03e545d1296b55febc7a1/501_50_2659_2127/master/2659.jpg?width=140&quality=85&auto=format&fit=max&s=9c2af7c5b2184585ff4ab704c8557fad",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Wicketkeeper-batter could have represented Australia but was destined to play for his country of birth after watching the 2010-11 Ashes at 10 In an era of sardine tin schedules and franchise teams hoping to turn heads, it was refreshing to hear Jordan Cox at the beautiful Bellerive Oval and state how desperate he is to play for England as much as is humanly possible. When the squads for this Austr",
+      "related": []
+    },
+    "triple-scotland-injury-blow-for-japan-finale-a87322": {
+      "id": "triple-scotland-injury-blow-for-japan-finale-a87322",
+      "headline": "Triple Scotland injury blow for Japan finale",
+      "deck": "Captain Sione Tuipulotu, scrum-half Ben White and number eight Jack Dempsey are ruled out of Scotland's final Nations Championship group game at home to Japan on Saturday.",
+      "precis": "Triple Scotland injury blow for Japan finale, according to BBC Sport. Captain Sione Tuipulotu, scrum-half Ben White and number eight Jack Dempsey are ruled out of Scotland's final Nations Championship group game at home to Japan on Saturday. Read the original at BBC Sport.",
+      "source": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/cq8e0wzrrzgpo",
+      "sourceHome": "https://www.bbc.com/sport",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T19:51:16+08:00",
+        "display": "17 November 2026, 7:51 PM HKT",
+        "short": "17 Nov, 7:51 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3495/live/e8e5c370-e27c-11f1-99a1-253766e7ad8b.png",
+      "imageCredit": "BBC Sport (feed image)",
+      "video": null,
+      "summarySource": "Captain Sione Tuipulotu, scrum-half Ben White and number eight Jack Dempsey are ruled out of Scotland's final Nations Championship group game at home to Japan on Saturday.",
+      "related": []
+    },
+    "dechambeau-joins-dp-world-tour-after-liv-golf-collapse-038481": {
+      "id": "dechambeau-joins-dp-world-tour-after-liv-golf-collapse-038481",
+      "headline": "DeChambeau joins DP World Tour after LIV Golf collapse",
+      "deck": "Bryson DeChambeau agrees to join the DP World Tour for next season.",
+      "precis": "DeChambeau joins DP World Tour after LIV Golf collapse. Bryson DeChambeau agrees to join the DP World Tour for next season. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/sport/golf/articles/c5vg27yzm9exo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T20:35:56+08:00",
+        "display": "17 November 2026, 8:35 PM HKT",
+        "short": "17 Nov, 8:35 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df39/live/f1a6c4a0-e277-11f1-ad71-0bc71faa76c4.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "Bryson DeChambeau agrees to join the DP World Tour for next season.",
+      "related": [
+        "bryson-dechambeau-joins-dp-world-tour-for-2027-after-demise-of-liv-golf-33cb04"
+      ]
+    },
+    "bryson-dechambeau-joins-dp-world-tour-for-2027-after-demise-of-liv-golf-33cb04": {
+      "id": "bryson-dechambeau-joins-dp-world-tour-for-2027-after-demise-of-liv-golf-33cb04",
+      "headline": "Bryson DeChambeau joins DP World Tour for 2027 after demise of LIV Golf",
+      "deck": "Player in ‘category one’ status after US Open win Golfer ineligible for PGA Tour due to blanket ban Bryson DeChambeau will play on the DP World Tour for the 2027 season…",
+      "precis": "Bryson DeChambeau joins DP World Tour for 2027 after demise of LIV Golf. Player in ‘category one’ status after US Open win Golfer ineligible for PGA Tour due to blanket ban Bryson DeChambeau will play on the DP World Tour for the 2027 season following the hughly publicised demise of LIV Golf. DeChambeau is ineligible to join the PGA Tour, where he has not played for more than four years, due to a blanket ban on LIV players that runs for 12 months from the date of their last tournament appearance on the Saudi Arabia-funded circuit. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/nov/17/bryson-dechambeau-joins-dp-world-tour-2027-season-liv-golf",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Associated Press",
+      "published": {
+        "iso": "2026-11-17T20:51:05+08:00",
+        "display": "17 November 2026, 8:51 PM HKT",
+        "short": "17 Nov, 8:51 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "sport",
+      "image": "https://i.guim.co.uk/img/media/dbc3ee17192037e20a6b1f5d3b3a34f9ce0aff7c/189_92_4236_3389/master/4236.jpg?width=140&quality=85&auto=format&fit=max&s=3a6115c46fe42038d0a108af2256d9f2",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Player in ‘category one’ status after US Open win Golfer ineligible for PGA Tour due to blanket ban Bryson DeChambeau will play on the DP World Tour for the 2027 season following the hughly publicised demise of LIV Golf. DeChambeau is ineligible to join the PGA Tour, where he has not played for more than four years, due to a blanket ban on LIV players that runs for 12 months from the date of their",
+      "related": [
+        "dechambeau-joins-dp-world-tour-after-liv-golf-collapse-038481"
+      ]
+    },
+    "janine-van-wyk-our-rooms-were-empty-no-mattresses-no-lightbulbs-and-not-9da430": {
+      "id": "janine-van-wyk-our-rooms-were-empty-no-mattresses-no-lightbulbs-and-not-9da430",
+      "headline": "Janine van Wyk: ‘Our rooms were empty … no mattresses, no lightbulbs and not a drop of water’",
+      "deck": "In an extract from the former South Africa captain’s book, she details less than ideal Wafcon 2006 preparations I was just a year into my international career when we qualified…",
+      "precis": "Janine van Wyk: ‘Our rooms were empty … no mattresses, no lightbulbs and not a drop of water’. In an extract from the former South Africa captain’s book, she details less than ideal Wafcon 2006 preparations I was just a year into my international career when we qualified for my first Wafcon, which was then called the African Women’s Championship (AWC) and was held in Nigeria in 2006. I was extremely excited but very nervous to participate in this tournament, more so when it was announced that we would be in the same group as the hosts, and would play them last in the group. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/football/2026/nov/17/janine-van-wyck-south-africa-wafcon-book-extract-moving-the-goalposts-newsletter",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Janine van Wyk",
+      "published": {
+        "iso": "2026-11-17T19:57:35+08:00",
+        "display": "17 November 2026, 7:57 PM HKT",
+        "short": "17 Nov, 7:57 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "sport",
+      "image": "https://i.guim.co.uk/img/media/92e1a3ed40cc6f210ed0ff0a50c67148d1ad9837/372_0_4080_3264/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=d49e185a8c3423434bb3f2899741184c",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "In an extract from the former South Africa captain’s book, she details less than ideal Wafcon 2006 preparations I was just a year into my international career when we qualified for my first Wafcon, which was then called the African Women’s Championship (AWC) and was held in Nigeria in 2006. I was extremely excited but very nervous to participate in this tournament, more so when it was announced th",
+      "related": []
+    },
+    "coach-given-one-game-ban-for-head-push-on-female-player-650e20": {
+      "id": "coach-given-one-game-ban-for-head-push-on-female-player-650e20",
+      "headline": "Coach given one-game ban for head push on female player",
+      "deck": "University basketball coach Bill Fennelly is given a one-game suspension for pushing a female player on the head during a timeout.",
+      "precis": "Coach given one-game ban for head push on female player, according to BBC Sport. University basketball coach Bill Fennelly is given a one-game suspension for pushing a female player on the head during a timeout. Read the original at BBC Sport.",
+      "source": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/basketball/articles/cw808v4vj7exo",
+      "sourceHome": "https://www.bbc.com/sport",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T19:54:07+08:00",
+        "display": "17 November 2026, 7:54 PM HKT",
+        "short": "17 Nov, 7:54 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9df4/live/a84e6c90-e27c-11f1-a094-5fdc692f3e33.png",
+      "imageCredit": "BBC Sport (feed image)",
+      "video": null,
+      "summarySource": "University basketball coach Bill Fennelly is given a one-game suspension for pushing a female player on the head during a timeout.",
+      "related": []
+    },
+    "why-not-have-a-go-the-halfway-line-goal-phenomenon-f21934": {
+      "id": "why-not-have-a-go-the-halfway-line-goal-phenomenon-f21934",
+      "headline": "'Why not have a go?' - the halfway line goal phenomenon",
+      "deck": "Why Premier League players are trying their luck on goal from long range more regularly.",
+      "precis": "'Why not have a go?' - the halfway line goal phenomenon. Why Premier League players are trying their luck on goal from long range more regularly. Read the original at BBC Sport.",
+      "source": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo",
+      "sourceHome": "https://www.bbc.com/sport",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T19:54:07+08:00",
+        "display": "17 November 2026, 7:54 PM HKT",
+        "short": "17 Nov, 7:54 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9989/live/f8fe0ae0-dec8-11f1-86d5-71a9f29d1c99.jpg",
+      "imageCredit": "BBC Sport (feed image)",
+      "video": null,
+      "summarySource": "Why Premier League players are trying their luck on goal from long range more regularly.",
+      "related": []
+    },
+    "gb-s-patten-criticises-atp-chairman-and-ceo-for-absence-65825d": {
+      "id": "gb-s-patten-criticises-atp-chairman-and-ceo-for-absence-65825d",
+      "headline": "GB's Patten criticises ATP chairman and CEO for absence",
+      "deck": "Britain's top-ranked doubles player Henry Patten criticises the ATP's chairman and CEO for missing the year-end world number one trophy presentation.",
+      "precis": "GB's Patten criticises ATP chairman and CEO for absence, according to BBC Sport. Britain's top-ranked doubles player Henry Patten criticises the ATP's chairman and CEO for missing the year-end world number one trophy presentation. Read the original at BBC Sport.",
+      "source": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/cmreg732el2vo",
+      "sourceHome": "https://www.bbc.com/sport",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T19:33:19+08:00",
+        "display": "17 November 2026, 7:33 PM HKT",
+        "short": "17 Nov, 7:33 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a46/live/98d6d1e0-e212-11f1-b9ca-b9964628501b.jpg",
+      "imageCredit": "BBC Sport (feed image)",
+      "video": null,
+      "summarySource": "Britain's top-ranked doubles player Henry Patten criticises the ATP's chairman and CEO for missing the year-end world number one trophy presentation.",
+      "related": []
+    },
+    "will-infantino-feel-he-s-already-won-as-fifa-challengers-are-revealed-5517c6": {
+      "id": "will-infantino-feel-he-s-already-won-as-fifa-challengers-are-revealed-5517c6",
+      "headline": "Will Infantino feel he's already won as Fifa challengers are revealed?",
+      "deck": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+      "precis": "Will Infantino feel he's already won as Fifa challengers are revealed? Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning? Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T18:32:07+08:00",
+        "display": "17 November 2026, 6:32 PM HKT",
+        "short": "17 Nov, 6:32 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": {
+        "youtubeId": "yZeIeqRPyP0",
+        "channel": "FRANCE 24 English",
+        "title": "UEFA backs bid by France's Diallo to take on Infantino as FIFA chief • FRANCE 24 English",
+        "watchUrl": "https://www.youtube.com/watch?v=yZeIeqRPyP0",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/yZeIeqRPyP0",
+        "poster": "https://i.ytimg.com/vi/yZeIeqRPyP0/hqdefault.jpg"
+      },
+      "summarySource": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+      "related": []
+    },
+    "rassie-erasmus-launches-match-fixing-diatribe-over-officials-after-defea-0369ee": {
+      "id": "rassie-erasmus-launches-match-fixing-diatribe-over-officials-after-defea-0369ee",
+      "headline": "Rassie Erasmus launches ‘match-fixing’ diatribe over officials after defeat",
+      "deck": "Springboks’ head coach makes contentious remarks South Africa due to face Ireland next in Dublin South Africa’s head coach Rassie Erasmus has questioned whether the failure of…",
+      "precis": "Rassie Erasmus launches ‘match-fixing’ diatribe over officials after defeat, according to The Guardian. Springboks’ head coach makes contentious remarks South Africa due to face Ireland next in Dublin South Africa’s head coach Rassie Erasmus has questioned whether the failure of match officials to spot what he perceived to be illegal tackles by opponents could amount to “match-fixing” or “manipulation of the game or result”. Erasmus’s contentious remarks were made ahead of the Springboks’ upcoming Test match against Ireland at a press conference on Monday. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/nov/17/rassie-erasmus-south-africa-rugby-union-match-officials",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Associated Press",
+      "published": {
+        "iso": "2026-11-17T19:30:52+08:00",
+        "display": "17 November 2026, 7:30 PM HKT",
+        "short": "17 Nov, 7:30 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "sport",
+      "image": "https://i.guim.co.uk/img/media/a60685cd5b5aee2def47b1d51cd62d324db13b85/59_263_6550_5240/master/6550.jpg?width=140&quality=85&auto=format&fit=max&s=1462776c8a6442c1280bdf190dce7ff3",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Springboks’ head coach makes contentious remarks South Africa due to face Ireland next in Dublin South Africa’s head coach Rassie Erasmus has questioned whether the failure of match officials to spot what he perceived to be illegal tackles by opponents could amount to “match-fixing” or “manipulation of the game or result”. Erasmus’s contentious remarks were made ahead of the Springboks’ upcoming T",
+      "related": []
+    },
+    "prison-sentences-rescinded-after-nurmagomedov-dvalishvili-brawl-8da06f": {
+      "id": "prison-sentences-rescinded-after-nurmagomedov-dvalishvili-brawl-8da06f",
+      "headline": "Prison sentences rescinded after Nurmagomedov-Dvalishvili brawl",
+      "deck": "The eight people who received prison sentences for their part in a mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili have been released.",
+      "precis": "Prison sentences rescinded after Nurmagomedov-Dvalishvili brawl, according to BBC Sport. The eight people who received prison sentences for their part in a mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili have been released. Read the original at BBC Sport.",
+      "source": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cqlyjkl8xz0go",
+      "sourceHome": "https://www.bbc.com/sport",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T19:20:11+08:00",
+        "display": "17 November 2026, 7:20 PM HKT",
+        "short": "17 Nov, 7:20 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b982/live/74d39b10-e272-11f1-a094-5fdc692f3e33.png",
+      "imageCredit": "BBC Sport (feed image)",
+      "video": null,
+      "summarySource": "The eight people who received prison sentences for their part in a mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili have been released.",
+      "related": []
+    },
+    "she-set-out-to-buy-a-painting-a-day-on-the-trail-of-peggy-guggenheim-s-l-9cb1cc": {
+      "id": "she-set-out-to-buy-a-painting-a-day-on-the-trail-of-peggy-guggenheim-s-l-9cb1cc",
+      "headline": "‘She set out to buy a painting a day’: on the trail of Peggy Guggenheim’s legendary shopping spree",
+      "deck": "Royal Academy, London The modernist collector once ran a gallery in London – but from this confusing exhibition, it’s hard to tell what exactly was once in there Peggy…",
+      "precis": "‘She set out to buy a painting a day’: on the trail of Peggy Guggenheim’s legendary shopping spree, according to The Guardian. Royal Academy, London The modernist collector once ran a gallery in London – but from this confusing exhibition, it’s hard to tell what exactly was once in there Peggy Guggenheim, art enthusiast and socialite born into a wealthy New York family, was often photographed outside her palazzo in Venice with a handbag dog and outré sunglasses. The Peggy Guggenheim Collection as we now know it, however, was nearly not in her Venice palazzo but London, evidenced by a short-lived and largely overlooked period between January 1938 and June 1939 when she ran Guggenheim Jeune in Cork Street. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/nov/17/she-set-out-to-buy-a-painting-a-day-on-the-trail-of-peggy-guggenheims-legendary-shopping-spree",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Olivia McEwan",
+      "published": {
+        "iso": "2026-11-17T20:23:22+08:00",
+        "display": "17 November 2026, 8:23 PM HKT",
+        "short": "17 Nov, 8:23 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "culture",
+      "image": "https://i.guim.co.uk/img/media/5bcda70851b60cdbdbb6b8b52f3ff51a3ba32023/271_0_5443_4354/master/5443.jpg?width=140&quality=85&auto=format&fit=max&s=6a67a239db8bb5e980639dd55921a0f6",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Royal Academy, London The modernist collector once ran a gallery in London – but from this confusing exhibition, it’s hard to tell what exactly was once in there Peggy Guggenheim, art enthusiast and socialite born into a wealthy New York family, was often photographed outside her palazzo in Venice with a handbag dog and outré sunglasses. The Peggy Guggenheim Collection as we now know it, however, ",
+      "related": []
+    },
+    "they-re-one-of-the-uk-s-greatest-cult-bands-who-swore-they-d-never-reuni-312788": {
+      "id": "they-re-one-of-the-uk-s-greatest-cult-bands-who-swore-they-d-never-reuni-312788",
+      "headline": "They’re one of the UK’s greatest cult bands – who swore they’d never reunite. What brought Life Without Buildings back together?",
+      "deck": "The Scottish quartet existed for just three years at the turn of the millennium.",
+      "precis": "They’re one of the UK’s greatest cult bands – who swore they’d never reunite. What brought Life Without Buildings back together? The Scottish quartet existed for just three years at the turn of the millennium. But after Frank Ocean and TikTok thrilled to Sue Tompkins’ unique vocals, they’re back. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/music/2026/nov/17/post-punk-life-without-buildings-reformed",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Stevie Chick",
+      "published": {
+        "iso": "2026-11-17T20:00:37+08:00",
+        "display": "17 November 2026, 8:00 PM HKT",
+        "short": "17 Nov, 8:00 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "culture",
+      "image": "https://i.guim.co.uk/img/media/215b33917c8aeb31dd5046a06360e2de5bc9e5c4/0_176_1350_1079/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=c4f9fc9955edd922f76e1c43f4a2cf5a",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "The Scottish quartet existed for just three years at the turn of the millennium. But after Frank Ocean and TikTok thrilled to Sue Tompkins’ unique vocals, they’re back. They explain their fears about ‘spoiling the joy’ ‘I’m excited, I’m scared, I’m anxious – that bubbling feeling, like when you’re on a rollercoaster, at the very top, just before the big drop.” On a drizzly afternoon in July, huddl",
+      "related": []
+    },
+    "mick-jagger-should-fold-up-his-penis-and-go-home-the-caustic-genius-of-m-f54840": {
+      "id": "mick-jagger-should-fold-up-his-penis-and-go-home-the-caustic-genius-of-m-f54840",
+      "headline": "‘Mick Jagger should fold up his penis and go home’: the caustic genius of music critic Robert Christgau",
+      "deck": "Beloved for his savage takedowns and rhapsodic raves, the legendary Village Voice reviewer opens up in a candid new documentary Rows and rows of CDs, albums, cassettes and…",
+      "precis": "‘Mick Jagger should fold up his penis and go home’: the caustic genius of music critic Robert Christgau, according to The Guardian. Beloved for his savage takedowns and rhapsodic raves, the legendary Village Voice reviewer opens up in a candid new documentary Rows and rows of CDs, albums, cassettes and books creak and groan on shelves that snake around the walls and choke the halls of an apartment in New York City’s East Village. The clutter that sprawls through its rooms is so dense it suggests the twistiest parts of a Moroccan medina or a warren no self-respecting rabbit would allow. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/film/2026/nov/17/music-critic-robert-christgau-documentary",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Jim Farber",
+      "published": {
+        "iso": "2026-11-17T19:00:36+08:00",
+        "display": "17 November 2026, 7:00 PM HKT",
+        "short": "17 Nov, 7:00 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "culture",
+      "image": "https://i.guim.co.uk/img/media/cde7c03e1f5a0dae3f87c3a6ed481d1fa73e6a58/502_0_2697_2160/master/2697.jpg?width=140&quality=85&auto=format&fit=max&s=704f0fb8a5d750d26325b7460dc9735f",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Beloved for his savage takedowns and rhapsodic raves, the legendary Village Voice reviewer opens up in a candid new documentary Rows and rows of CDs, albums, cassettes and books creak and groan on shelves that snake around the walls and choke the halls of an apartment in New York City’s East Village. The clutter that sprawls through its rooms is so dense it suggests the twistiest parts of a Morocc",
+      "related": []
+    },
+    "american-doctor-review-medics-put-their-lives-on-the-line-in-gaza-amid-t-7e594d": {
+      "id": "american-doctor-review-medics-put-their-lives-on-the-line-in-gaza-amid-t-7e594d",
+      "headline": "American Doctor review – medics put their lives on the line in Gaza amid the carnage",
+      "deck": "Poh Si Teng’s powerful documentary follows three doctors from the US who sign up to volunteer at the Nasser hospital This is the latest documentary about medics travelling to…",
+      "precis": "American Doctor review – medics put their lives on the line in Gaza amid the carnage, according to The Guardian. Poh Si Teng’s powerful documentary follows three doctors from the US who sign up to volunteer at the Nasser hospital This is the latest documentary about medics travelling to Palestine to treat civilian casualties; it’s a powerful, angry film, in a state of despair at the scale of suffering and devastation. A sliver of hope is the trio of doctors it profiles, individuals acting on their conscience. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/film/2026/nov/17/american-doctor-review-medics-put-their-lives-on-the-line-in-gaza-poh-si-ten-documentary",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Cath Clarke",
+      "published": {
+        "iso": "2026-11-17T19:00:35+08:00",
+        "display": "17 November 2026, 7:00 PM HKT",
+        "short": "17 Nov, 7:00 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "culture",
+      "image": "https://i.guim.co.uk/img/media/b6d4c43469954f1e9d743d0fcd2ac49bd38105af/699_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=ea9d602f8397e1f428ba362c28fd24a2",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Poh Si Teng’s powerful documentary follows three doctors from the US who sign up to volunteer at the Nasser hospital This is the latest documentary about medics travelling to Palestine to treat civilian casualties; it’s a powerful, angry film, in a state of despair at the scale of suffering and devastation. A sliver of hope is the trio of doctors it profiles, individuals acting on their conscience",
+      "related": []
+    },
+    "belonging-by-sonia-gandhi-review-india-s-elder-stateswoman-breaks-her-si-c09fc7": {
+      "id": "belonging-by-sonia-gandhi-review-india-s-elder-stateswoman-breaks-her-si-c09fc7",
+      "headline": "Belonging by Sonia Gandhi review – India’s elder stateswoman breaks her silence",
+      "deck": "The Italian who became kingmaker in the world’s largest democracy charts her remarkable journey By any measure, it is one of the most extraordinary political stories of our…",
+      "precis": "Belonging by Sonia Gandhi review – India’s elder stateswoman breaks her silence, according to The Guardian. The Italian who became kingmaker in the world’s largest democracy charts her remarkable journey By any measure, it is one of the most extraordinary political stories of our age: a shy Italian girl locks eyes with the scion of an Indian political family, falls instantly and steadfastly in love, “transplanting herself” as a result, suffers soul-shattering tragedies, then takes the reins of power in the world’s largest democracy. It is a life that spans the extremes of privilege and distress, and half a century of seismic national history. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/books/2026/nov/17/belonging-by-sonia-gandhi-review-indias-elder-stateswoman-breaks-her-silence",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Rahul Bhattacharya",
+      "published": {
+        "iso": "2026-11-17T17:00:08+08:00",
+        "display": "17 November 2026, 5:00 PM HKT",
+        "short": "17 Nov, 5:00 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "culture",
+      "image": "https://i.guim.co.uk/img/media/421da98f3eee945b02fbcb505187826c17538212/590_80_1784_1427/master/1784.jpg?width=140&quality=85&auto=format&fit=max&s=deebb7106b220078b2060aab12470896",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "The Italian who became kingmaker in the world’s largest democracy charts her remarkable journey By any measure, it is one of the most extraordinary political stories of our age: a shy Italian girl locks eyes with the scion of an Indian political family, falls instantly and steadfastly in love, “transplanting herself” as a result, suffers soul-shattering tragedies, then takes the reins of power in ",
+      "related": []
+    },
+    "robert-pattinson-to-replace-daniel-craig-as-james-bond-d73407": {
+      "id": "robert-pattinson-to-replace-daniel-craig-as-james-bond-d73407",
+      "headline": "Robert Pattinson to replace Daniel Craig as James Bond",
+      "deck": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+      "precis": "Robert Pattinson to replace Daniel Craig as James Bond, according to BBC News. The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T10:11:57+08:00",
+        "display": "17 November 2026, 10:11 AM HKT",
+        "short": "17 Nov, 10:11 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "culture",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cce/live/ac752f20-e209-11f1-99a1-253766e7ad8b.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+      "related": [
+        "robert-pattinson-is-the-next-james-bond-615a87"
+      ]
+    },
+    "bagel-makers-lovers-and-critics-converged-in-new-york-for-best-bagel-con-9811df": {
+      "id": "bagel-makers-lovers-and-critics-converged-in-new-york-for-best-bagel-con-9811df",
+      "headline": "Bagel makers, lovers and critics converged in New York for best bagel contest",
+      "deck": "The best bagel contest in New York City last weekend drew competitors from around the world, and of course lots of hometown bagel makers and critics.",
+      "precis": "Bagel makers, lovers and critics converged in New York for best bagel contest, according to NPR. The best bagel contest in New York City last weekend drew competitors from around the world, and of course lots of hometown bagel makers and critics. Read the original at NPR.",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/11/16/nx-s1-5939444/bagel-makers-lovers-and-critics-converged-in-new-york-for-best-bagel-contest",
+      "sourceHome": "https://www.npr.org/",
+      "author": "Jeff Lunden",
+      "published": {
+        "iso": "2026-11-17T07:49:33+08:00",
+        "display": "17 November 2026, 7:49 AM HKT",
+        "short": "17 Nov, 7:49 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "culture",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5939444",
+      "imageCredit": "NPR (feed image)",
+      "video": null,
+      "summarySource": "The best bagel contest in New York City last weekend drew competitors from around the world, and of course lots of hometown bagel makers and critics.",
+      "related": []
+    },
+    "russell-brand-prison-message-appalling-and-being-investigated-no-10-says-4b3d6f": {
+      "id": "russell-brand-prison-message-appalling-and-being-investigated-no-10-says-4b3d6f",
+      "headline": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
+      "deck": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
+      "precis": "Russell Brand prison message 'appalling' and being investigated, No 10 says. Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\". Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T02:22:22+08:00",
+        "display": "17 November 2026, 2:22 AM HKT",
+        "short": "17 Nov, 2:22 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "culture",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6a9/live/58ecf9b0-e1bd-11f1-99b6-a35a62fa4264.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
+      "related": []
+    },
+    "emma-barnett-to-leave-radio-4-s-today-for-new-bbc-show-acb485": {
+      "id": "emma-barnett-to-leave-radio-4-s-today-for-new-bbc-show-acb485",
+      "headline": "Emma Barnett to leave Radio 4's Today for new BBC show",
+      "deck": "Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year.",
+      "precis": "Emma Barnett to leave Radio 4's Today for new BBC show, according to BBC News. Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T01:46:12+08:00",
+        "display": "17 November 2026, 1:46 AM HKT",
+        "short": "17 Nov, 1:46 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "culture",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a85c/live/36fe5760-e1e3-11f1-9f14-b33806cfd783.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year.",
+      "related": []
+    },
+    "sir-tom-jones-announces-homecoming-gigs-after-cancelling-shows-due-to-fl-b72836": {
+      "id": "sir-tom-jones-announces-homecoming-gigs-after-cancelling-shows-due-to-fl-b72836",
+      "headline": "Sir Tom Jones announces homecoming gigs after cancelling shows due to flu",
+      "deck": "Sir Tom will return to perform in Wales next year after \"a bad case of flu\" disrupted his US shows.",
+      "precis": "Sir Tom Jones announces homecoming gigs after cancelling shows due to flu. Sir Tom will return to perform in Wales next year after \"a bad case of flu\" disrupted his US shows. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr20ve1l4x9vo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T01:17:40+08:00",
+        "display": "17 November 2026, 1:17 AM HKT",
+        "short": "17 Nov, 1:17 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "culture",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c15/live/7261de60-e1db-11f1-b8c8-67fa35f5afdb.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "Sir Tom will return to perform in Wales next year after \"a bad case of flu\" disrupted his US shows.",
+      "related": []
+    },
+    "a-family-runs-afoul-of-the-russian-mob-in-the-terrific-paper-tiger-6b1f99": {
+      "id": "a-family-runs-afoul-of-the-russian-mob-in-the-terrific-paper-tiger-6b1f99",
+      "headline": "A family runs afoul of the Russian mob in the terrific 'Paper Tiger'",
+      "deck": "Adam Driver, Scarlett Johansson and Miles Teller star in a film that isn't merely one of this year's very best films; it possesses a weight and depth you rarely find in…",
+      "precis": "A family runs afoul of the Russian mob in the terrific 'Paper Tiger', according to NPR. Adam Driver, Scarlett Johansson and Miles Teller star in a film that isn't merely one of this year's very best films; it possesses a weight and depth you rarely find in American movies anymore. Read the original at NPR.",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/11/16/nx-s1-6040155/paper-tiger-review",
+      "sourceHome": "https://www.npr.org/",
+      "author": "John Powers",
+      "published": {
+        "iso": "2026-11-17T01:38:36+08:00",
+        "display": "17 November 2026, 1:38 AM HKT",
+        "short": "17 Nov, 1:38 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "culture",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x1608+0+0/resize/3840x1608!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2F94%2F4f1f379a4a46ae75204faa952db7%2Fpaper-tiger-courtesy-of-neon-still03.jpg",
+      "imageCredit": "NPR (feed image)",
+      "video": null,
+      "summarySource": "Adam Driver, Scarlett Johansson and Miles Teller star in a film that isn't merely one of this year's very best films; it possesses a weight and depth you rarely find in American movies anymore.",
+      "related": []
+    },
+    "nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here-1cc4cd": {
+      "id": "nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here-1cc4cd",
+      "headline": "Nearly two million people are behind bars in the US. How did we get here?",
+      "deck": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America , goes inside the U.S.",
+      "precis": "Nearly two million people are behind bars in the US. How did we get here? Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America , goes inside the U.S. prison system and explores how our approach to criminals has changed over time. Read the original at NPR.",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
+      "sourceHome": "https://www.npr.org/",
+      "author": "Dave Davies",
+      "published": {
+        "iso": "2026-11-17T01:34:07+08:00",
+        "display": "17 November 2026, 1:34 AM HKT",
+        "short": "17 Nov, 1:34 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "culture",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6042432",
+      "imageCredit": "NPR (feed image)",
+      "video": null,
+      "summarySource": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America , goes inside the U.S. prison system and explores how our approach to criminals has changed over time.",
+      "related": []
+    },
+    "robert-pattinson-is-the-next-james-bond-615a87": {
+      "id": "robert-pattinson-is-the-next-james-bond-615a87",
+      "headline": "Robert Pattinson is the next James Bond",
+      "deck": "\"We were surrounded by extraordinary talent, but there can only be one 007,\" Denis Villeneuve, who will direct the new Bond film, said in an announcement from Amazon MGM Studios.",
+      "precis": "Robert Pattinson is the next James Bond. \"We were surrounded by extraordinary talent, but there can only be one 007,\" Denis Villeneuve, who will direct the new Bond film, said in an announcement from Amazon MGM Studios. Read the original at NPR.",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/11/16/nx-s1-6042420/james-bond-casting-robert-pattinson",
+      "sourceHome": "https://www.npr.org/",
+      "author": "Jennifer Vanasco",
+      "published": {
+        "iso": "2026-11-17T00:47:57+08:00",
+        "display": "17 November 2026, 12:47 AM HKT",
+        "short": "17 Nov, 12:47 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "culture",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7589x5059+0+0/resize/7589x5059!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2Fa4%2Fcc4619ed445f9322e6fe0efcc7b9%2Fgettyimages-2284931307.jpg",
+      "imageCredit": "NPR (feed image)",
+      "video": null,
+      "summarySource": "\"We were surrounded by extraordinary talent, but there can only be one 007,\" Denis Villeneuve, who will direct the new Bond film, said in an announcement from Amazon MGM Studios.",
+      "related": [
+        "robert-pattinson-to-replace-daniel-craig-as-james-bond-d73407"
+      ]
+    },
+    "giant-lunar-sculpture-has-visitors-over-the-moon-0e315a": {
+      "id": "giant-lunar-sculpture-has-visitors-over-the-moon-0e315a",
+      "headline": "Giant lunar sculpture has visitors over the moon",
+      "deck": "People can see the 6m-wide sculpture in St Helier until 29 November.",
+      "precis": "Giant lunar sculpture has visitors over the moon. People can see the 6m-wide sculpture in St Helier until 29 November. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm79213ngx45o",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T20:04:38+08:00",
+        "display": "17 November 2026, 8:04 PM HKT",
+        "short": "17 Nov, 8:04 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "science",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c5c/live/1791db60-e272-11f1-99b6-a35a62fa4264.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "People can see the 6m-wide sculpture in St Helier until 29 November.",
+      "related": []
+    },
+    "more-than-160m-needed-to-clean-up-one-of-europe-s-largest-illegal-dumps-f4a3c5": {
+      "id": "more-than-160m-needed-to-clean-up-one-of-europe-s-largest-illegal-dumps-f4a3c5",
+      "headline": "More than £160m needed to clean up one of Europe's largest illegal dumps",
+      "deck": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix.",
+      "precis": "More than £160m needed to clean up one of Europe's largest illegal dumps, according to BBC News. Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T17:46:31+08:00",
+        "display": "17 November 2026, 5:46 PM HKT",
+        "short": "17 Nov, 5:46 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "science",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5254/live/cbfabb10-e26f-11f1-99b6-a35a62fa4264.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix.",
+      "related": []
+    },
+    "dazzling-leonid-meteor-shower-to-peak-on-tuesday-night-7d4573": {
+      "id": "dazzling-leonid-meteor-shower-to-peak-on-tuesday-night-7d4573",
+      "headline": "Dazzling Leonid meteor shower to peak on Tuesday night",
+      "deck": "The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night.",
+      "precis": "Dazzling Leonid meteor shower to peak on Tuesday night, according to BBC News. The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T17:03:08+08:00",
+        "display": "17 November 2026, 5:03 PM HKT",
+        "short": "17 Nov, 5:03 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "science",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ad/live/8061a130-e1b8-11f1-9a3f-99aca912798e.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night.",
+      "related": [
+        "starwatch-fleeting-brilliance-of-leonid-meteor-shower-to-hit-peak-40dd25"
+      ]
+    },
+    "would-more-hands-on-dads-create-a-more-peaceful-world-this-pioneering-sc-c78fde": {
+      "id": "would-more-hands-on-dads-create-a-more-peaceful-world-this-pioneering-sc-c78fde",
+      "headline": "Would more hands-on dads create a more peaceful world? This pioneering scientist thinks so",
+      "deck": "Sarah Blaffer Hrdy unpicked Darwinian sexism to rewrite the story of evolution.",
+      "precis": "Would more hands-on dads create a more peaceful world? This pioneering scientist thinks so, according to The Guardian. Sarah Blaffer Hrdy unpicked Darwinian sexism to rewrite the story of evolution. Now, she’s turned her attention to the nature of fatherhood ‘Spit here, dear,” Sarah Blaffer Hrdy said to her husband, Dan, handing him a vial when he arrived in New York after the birth of the couple’s first grandchild. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/nov/17/would-more-hands-on-dads-create-a-more-peaceful-world-this-pioneering-scientist-thinks-so",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Susanna Rustin",
+      "published": {
+        "iso": "2026-11-17T18:00:10+08:00",
+        "display": "17 November 2026, 6:00 PM HKT",
+        "short": "17 Nov, 6:00 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "science",
+      "image": "https://i.guim.co.uk/img/media/40c0c920738f41915f503bc0fa668bb53b5043d9/1513_352_3221_2577/master/3221.jpg?width=140&quality=85&auto=format&fit=max&s=84d70fa115ac14ba21e008f31480f58f",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Sarah Blaffer Hrdy unpicked Darwinian sexism to rewrite the story of evolution. Now, she’s turned her attention to the nature of fatherhood ‘Spit here, dear,” Sarah Blaffer Hrdy said to her husband, Dan, handing him a vial when he arrived in New York after the birth of the couple’s first grandchild. It was 2014 and Hrdy was conducting an experiment. Having recorded a 63% jump in oxytocin in her sa",
+      "related": []
+    },
+    "met-office-yellow-warning-in-place-as-snow-could-disrupt-tuesday-morning-788eef": {
+      "id": "met-office-yellow-warning-in-place-as-snow-could-disrupt-tuesday-morning-788eef",
+      "headline": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+      "deck": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
+      "precis": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel, according to BBC News. Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-17T16:01:38+08:00",
+        "display": "17 November 2026, 4:01 PM HKT",
+        "short": "17 Nov, 4:01 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "science",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1014/live/a44029a0-e1b3-11f1-9a3f-99aca912798e.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
+      "related": [
+        "yellow-weather-warnings-issued-for-snow-as-temperatures-plummet-481dd7"
+      ]
+    },
+    "brain-cell-mapping-lays-groundwork-for-better-treatments-for-conditions-db0516": {
+      "id": "brain-cell-mapping-lays-groundwork-for-better-treatments-for-conditions-db0516",
+      "headline": "Brain cell mapping lays groundwork for better treatments for conditions like dementia",
+      "deck": "A major effort from brain researchers around the world has yielded a cellular atlas of the basal ganglia — structures key to learning and controlling motor skills.",
+      "precis": "Brain cell mapping lays groundwork for better treatments for conditions like dementia, according to NPR. A major effort from brain researchers around the world has yielded a cellular atlas of the basal ganglia — structures key to learning and controlling motor skills. Read the original at NPR.",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/11/16/nx-s1-6038924/brain-cell-mapping-lays-groundwork-for-better-treatments-for-conditions-like-dementia",
+      "sourceHome": "https://www.npr.org/",
+      "author": "Pien Huang",
+      "published": {
+        "iso": "2026-11-17T07:48:15+08:00",
+        "display": "17 November 2026, 7:48 AM HKT",
+        "short": "17 Nov, 7:48 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "science",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6038924",
+      "imageCredit": "NPR (feed image)",
+      "video": null,
+      "summarySource": "A major effort from brain researchers around the world has yielded a cellular atlas of the basal ganglia — structures key to learning and controlling motor skills.",
+      "related": []
+    },
+    "orwellian-hiv-scientist-s-ordeal-lays-bare-trump-officials-interference-954ee0": {
+      "id": "orwellian-hiv-scientist-s-ordeal-lays-bare-trump-officials-interference-954ee0",
+      "headline": "‘Orwellian’: HIV scientist’s ordeal lays bare Trump officials’ interference in grant-making",
+      "deck": "Researchers forced to scrap original studies as NIH rethinks grants not in ‘alignment’ with administration’s priorities Dr Jade Pagkas-Bather received her first grant from the…",
+      "precis": "‘Orwellian’: HIV scientist’s ordeal lays bare Trump officials’ interference in grant-making, according to The Guardian. Researchers forced to scrap original studies as NIH rethinks grants not in ‘alignment’ with administration’s priorities Dr Jade Pagkas-Bather received her first grant from the National Institutes of Health (NIH) in June 2025 – a milestone in any researcher’s career. She planned to study basic income as a medical intervention: her randomized control trial would test whether monthly grants of $500-cash helped poor, HIV-positive young people in Chicago stick with treatment. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/16/hiv-scientist-nih-grant-making-process",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Jessica Glenza",
+      "published": {
+        "iso": "2026-11-16T21:00:01+08:00",
+        "display": "16 November 2026, 9:00 PM HKT",
+        "short": "16 Nov, 9:00 PM HKT",
+        "folio": "Monday, 16 November 2026"
+      },
+      "desk": "science",
+      "image": "https://i.guim.co.uk/img/media/7bc9d1e5a2fcc38b045fd00a8be51070726c9d56/435_0_4353_3483/master/4353.jpg?width=140&quality=85&auto=format&fit=max&s=caaf91097142d920be5e8e873fd2fecd",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Researchers forced to scrap original studies as NIH rethinks grants not in ‘alignment’ with administration’s priorities Dr Jade Pagkas-Bather received her first grant from the National Institutes of Health (NIH) in June 2025 – a milestone in any researcher’s career. She planned to study basic income as a medical intervention: her randomized control trial would test whether monthly grants of $500-c",
+      "related": []
+    },
+    "yellow-weather-warnings-issued-for-snow-as-temperatures-plummet-481dd7": {
+      "id": "yellow-weather-warnings-issued-for-snow-as-temperatures-plummet-481dd7",
+      "headline": "Yellow weather warnings issued for snow as temperatures plummet",
+      "deck": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
+      "precis": "Yellow weather warnings issued for snow as temperatures plummet, according to BBC News. A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-16T18:02:04+08:00",
+        "display": "16 November 2026, 6:02 PM HKT",
+        "short": "16 Nov, 6:02 PM HKT",
+        "folio": "Monday, 16 November 2026"
+      },
+      "desk": "science",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e42/live/9f7d3670-e1cb-11f1-b8c8-67fa35f5afdb.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
+      "related": [
+        "met-office-yellow-warning-in-place-as-snow-could-disrupt-tuesday-morning-788eef"
+      ]
+    },
+    "starwatch-fleeting-brilliance-of-leonid-meteor-shower-to-hit-peak-40dd25": {
+      "id": "starwatch-fleeting-brilliance-of-leonid-meteor-shower-to-hit-peak-40dd25",
+      "headline": "Starwatch: Fleeting brilliance of Leonid meteor shower to hit peak",
+      "deck": "Annual display appears to radiate from constellation of Leo in eastern sky as Earth passes through comet debris stream The annual Leonid meteor shower reaches its peak this…",
+      "precis": "Starwatch: Fleeting brilliance of Leonid meteor shower to hit peak, according to The Guardian. Annual display appears to radiate from constellation of Leo in eastern sky as Earth passes through comet debris stream The annual Leonid meteor shower reaches its peak this week, offering a chance to count meteors. The shower is expected to be at its most active during the night of 17–18 November. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/science/2026/nov/16/starwatch-fleeting-brilliance-of-leonid-meteor-shower-to-hit-peak",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Stuart Clark",
+      "published": {
+        "iso": "2026-11-16T14:00:36+08:00",
+        "display": "16 November 2026, 2:00 PM HKT",
+        "short": "16 Nov, 2:00 PM HKT",
+        "folio": "Monday, 16 November 2026"
+      },
+      "desk": "science",
+      "image": "https://i.guim.co.uk/img/media/e4844d0afa73d5410a300fcb479af22184a113d8/105_0_1297_1038/master/1297.jpg?width=140&quality=85&auto=format&fit=max&s=c364793a9bd1c757e9b69e114a5bd82e",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Annual display appears to radiate from constellation of Leo in eastern sky as Earth passes through comet debris stream The annual Leonid meteor shower reaches its peak this week, offering a chance to count meteors. The shower is expected to be at its most active during the night of 17–18 November. Under ideal conditions, observers may see up to 10–15 meteors an hour. What they lack in numbers, the",
+      "related": [
+        "dazzling-leonid-meteor-shower-to-peak-on-tuesday-night-7d4573"
+      ]
+    },
+    "far-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-s-1adf31": {
+      "id": "far-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-s-1adf31",
+      "headline": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+      "deck": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week.",
+      "precis": "Far from home. Voyager 1 is now farther than anything man has sent into space. NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth. Read the original at NPR.",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+      "sourceHome": "https://www.npr.org/",
+      "author": "Ava Pukatch",
+      "published": {
+        "iso": "2026-11-16T06:41:22+08:00",
+        "display": "16 November 2026, 6:41 AM HKT",
+        "short": "16 Nov, 6:41 AM HKT",
+        "folio": "Monday, 16 November 2026"
+      },
+      "desk": "science",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5062x3375+0+0/resize/5062x3375!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb1%2F22%2Fdf2ccdf7425b9e9fd2adf7d753e0%2Fap25064678056736.jpg",
+      "imageCredit": "NPR (feed image)",
+      "video": null,
+      "summarySource": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth.",
+      "related": []
+    },
+    "the-superpower-battle-over-energy-and-what-it-means-for-your-bills-de1928": {
+      "id": "the-superpower-battle-over-energy-and-what-it-means-for-your-bills-de1928",
+      "headline": "The superpower battle over energy – and what it means for your bills",
+      "deck": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "precis": "The superpower battle over energy – and what it means for your bills, according to BBC News. A tug-of-war between China and the US could have a big impact on energy costs, but who will win? Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-10T08:08:28+08:00",
+        "display": "10 November 2026, 8:08 AM HKT",
+        "short": "10 Nov, 8:08 AM HKT",
+        "folio": "Tuesday, 10 November 2026"
+      },
+      "desk": "science",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "related": []
+    },
+    "how-to-spot-november-s-planetary-parade-in-the-pre-dawn-sky-ed56c1": {
+      "id": "how-to-spot-november-s-planetary-parade-in-the-pre-dawn-sky-ed56c1",
+      "headline": "How to spot November's planetary parade in the pre-dawn sky",
+      "deck": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
+      "precis": "How to spot November's planetary parade in the pre-dawn sky, according to BBC News. The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November. Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-15T18:49:57+08:00",
+        "display": "15 November 2026, 6:49 PM HKT",
+        "short": "15 Nov, 6:49 PM HKT",
+        "folio": "Sunday, 15 November 2026"
+      },
+      "desk": "science",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1a4/live/8fa21860-daa5-11f1-9da2-b11e4d68c08e.jpg",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
+      "related": []
+    },
+    "spacex-successfully-catches-top-of-huge-starship-rocket-for-first-time-e08c85": {
+      "id": "spacex-successfully-catches-top-of-huge-starship-rocket-for-first-time-e08c85",
+      "headline": "SpaceX successfully catches top of huge Starship rocket for first time",
+      "deck": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
+      "precis": "SpaceX successfully catches top of huge Starship rocket for first time, according to BBC News. The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\". Read the original at BBC News.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
+      "sourceHome": "https://www.bbc.com/news",
+      "author": "",
+      "published": {
+        "iso": "2026-11-15T06:15:52+08:00",
+        "display": "15 November 2026, 6:15 AM HKT",
+        "short": "15 Nov, 6:15 AM HKT",
+        "folio": "Sunday, 15 November 2026"
+      },
+      "desk": "science",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7be/live/5c1b5060-e077-11f1-9ec0-713bf094c3d1.png",
+      "imageCredit": "BBC News (feed image)",
+      "video": null,
+      "summarySource": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
+      "related": []
+    },
+    "the-corporate-boom-in-vegan-food-is-dead-long-live-real-plant-based-cook-34fc81": {
+      "id": "the-corporate-boom-in-vegan-food-is-dead-long-live-real-plant-based-cook-34fc81",
+      "headline": "The corporate boom in vegan food is dead. Long live real plant-based cooking | Isobel Lewis",
+      "deck": "The fad for plant-based junk food has run its course, but restaurants reflecting the centuries-long history of this cuisine still thrive Have you ever gone to make a restaurant…",
+      "precis": "The corporate boom in vegan food is dead. Long live real plant-based cooking. The fad for plant-based junk food has run its course, but restaurants reflecting the centuries-long history of this cuisine still thrive Have you ever gone to make a restaurant reservation and been met with a Google Maps listing bearing that harbinger of doom: “Permanently closed”? It’s a pretty deflating feeling – and one the UK’s vegan population knows well. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/17/corporate-boom-vegan-food-plant-based-cooking-restaurants",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Isobel Lewis",
+      "published": {
+        "iso": "2026-11-17T16:00:08+08:00",
+        "display": "17 November 2026, 4:00 PM HKT",
+        "short": "17 Nov, 4:00 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "opinion",
+      "image": "https://i.guim.co.uk/img/media/c97aa4c83c4a04a6d2470821b54e79462c749d2e/0_1016_3516_2811/master/3516.jpg?width=140&quality=85&auto=format&fit=max&s=e4bbf9add6a42e451fef79ae97e283da",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "The fad for plant-based junk food has run its course, but restaurants reflecting the centuries-long history of this cuisine still thrive Have you ever gone to make a restaurant reservation and been met with a Google Maps listing bearing that harbinger of doom: “Permanently closed”? It’s a pretty deflating feeling – and one the UK’s vegan population knows well. Over the past few years, many once-be",
+      "related": []
+    },
+    "automated-warfare-is-already-here-now-governments-must-restrain-it-helen-b405d8": {
+      "id": "automated-warfare-is-already-here-now-governments-must-restrain-it-helen-b405d8",
+      "headline": "Automated warfare is already here. Now governments must restrain it | Helen Clark",
+      "deck": "AI systems can allow militaries to find and annihilate targets within seconds.",
+      "precis": "Automated warfare is already here. Now governments must restrain it. AI systems can allow militaries to find and annihilate targets within seconds. A meaningful treaty must prioritise human control – and accountability Helen Clark is former head of the UN Development Programme and former prime minister of New Zealand, and member of The Elders Militaries around the world are increasingly relying on artificial intelligence to find, track and annihilate targets. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/17/automated-warfare-here-governments-restrain-ai-militaries-treaty",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Helen Clark",
+      "published": {
+        "iso": "2026-11-17T15:00:07+08:00",
+        "display": "17 November 2026, 3:00 PM HKT",
+        "short": "17 Nov, 3:00 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "opinion",
+      "image": "https://i.guim.co.uk/img/media/ad8030abd56aff89b15a66a8d8337a3319ddada7/46_0_3455_2765/master/3455.jpg?width=140&quality=85&auto=format&fit=max&s=9cd8235e101d2783a3d13cdfb1e0198c",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "AI systems can allow militaries to find and annihilate targets within seconds. A meaningful treaty must prioritise human control – and accountability Helen Clark is former head of the UN Development Programme and former prime minister of New Zealand, and member of The Elders Militaries around the world are increasingly relying on artificial intelligence to find, track and annihilate targets. An up",
+      "related": [
+        "government-must-act-now-or-lose-royal-mail-former-minister-warns-1b20f8"
+      ]
+    },
+    "don-t-wait-for-a-change-in-the-age-of-consent-adults-can-act-to-stop-age-46bfd4": {
+      "id": "don-t-wait-for-a-change-in-the-age-of-consent-adults-can-act-to-stop-age-46bfd4",
+      "headline": "Don’t wait for a change in the age of consent. Adults can act to stop age-gap abuse | Gaby Hinsliff",
+      "deck": "The law is important, but so is the fact that people know when associates embark on inappropriate relationships.",
+      "precis": "Don’t wait for a change in the age of consent. Adults can act to stop age-gap abuse, according to The Guardian. The law is important, but so is the fact that people know when associates embark on inappropriate relationships. They bear responsibility too Mia Latter was 16 and out clothes-shopping when Russell Brand stopped her on the street. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/17/change-sexual-consent-law-adults-age-gap-abuse",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Gaby Hinsliff",
+      "published": {
+        "iso": "2026-11-17T14:00:05+08:00",
+        "display": "17 November 2026, 2:00 PM HKT",
+        "short": "17 Nov, 2:00 PM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "opinion",
+      "image": "https://i.guim.co.uk/img/media/9900461fe7806813489092ff4a056dc844b4304e/337_0_3444_2755/master/3444.jpg?width=140&quality=85&auto=format&fit=max&s=4b2db685f4d30c2e6f5ab8a312390201",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "The law is important, but so is the fact that people know when associates embark on inappropriate relationships. They bear responsibility too Mia Latter was 16 and out clothes-shopping when Russell Brand stopped her on the street. He riffled through her bags to choose a dress he told her she should wear for the date he’d be taking her on. And so began a short relationship – if that’s the right wor",
+      "related": []
+    },
+    "ben-jennings-on-the-jobs-crisis-for-young-people-cartoon-2c7be6": {
+      "id": "ben-jennings-on-the-jobs-crisis-for-young-people-cartoon-2c7be6",
+      "headline": "Ben Jennings on the jobs crisis for young people – cartoon",
+      "deck": "Discover and buy more of Ben’s cartoons here Order your own print of this cartoon from the Guardian Print Shop Ben’s latest book, Drawn to the Chaos, is available to pre-order now",
+      "precis": "Ben Jennings on the jobs crisis for young people – cartoon, according to The Guardian. Discover and buy more of Ben’s cartoons here Order your own print of this cartoon from the Guardian Print Shop Ben’s latest book, Drawn to the Chaos, is available to pre-order now Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/nov/16/ben-jennings-jobs-crisis-young-people-britain-neets-cartoon",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Ben Jennings",
+      "published": {
+        "iso": "2026-11-17T02:55:50+08:00",
+        "display": "17 November 2026, 2:55 AM HKT",
+        "short": "17 Nov, 2:55 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "opinion",
+      "image": "https://i.guim.co.uk/img/media/ff5604730d1390586d5d6459b4ad8be292868bd5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3f755f4d507ee256f06d7ec12b77e250",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Discover and buy more of Ben’s cartoons here Order your own print of this cartoon from the Guardian Print Shop Ben’s latest book, Drawn to the Chaos, is available to pre-order now",
+      "related": [
+        "neet-ideas-what-s-in-alan-milburn-s-report-on-young-people-not-in-educat-454f3d"
+      ]
+    },
+    "the-guardian-view-on-europe-and-burnham-a-future-that-can-only-be-viewed-ccefa2": {
+      "id": "the-guardian-view-on-europe-and-burnham-a-future-that-can-only-be-viewed-ccefa2",
+      "headline": "The Guardian view on Europe and Burnham: a future that can only be viewed through a glass darkly | Editorial",
+      "deck": "Predicting a final destination for reset negotiations between the EU and the UK is futile, given the wider challenges that Brussels is facing At the European Political…",
+      "precis": "The Guardian view on Europe and Burnham: a future that can only be viewed through a glass darkly, according to The Guardian. Predicting a final destination for reset negotiations between the EU and the UK is futile, given the wider challenges that Brussels is facing At the European Political Community summit in Dublin last week, Emmanuel Macron was pictured apparently waving a grinning Andy Burnham to a seat at the head of the table, as Ursula von der Leyen, the European Commission president, looked on. It was the visual equivalent of the “ welcome back ” message delivered by the French president in the early autumn, following Mr Burnham’s suggestion that rejoining the EU was an option for the UK to consider. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/16/the-guardian-view-on-europe-and-burnham-a-future-that-can-only-be-viewed-through-a-glass-darkly",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Editorial",
+      "published": {
+        "iso": "2026-11-17T02:37:44+08:00",
+        "display": "17 November 2026, 2:37 AM HKT",
+        "short": "17 Nov, 2:37 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "opinion",
+      "image": "https://i.guim.co.uk/img/media/acf9d98dec4c22462c0258419bc2b28e3a45da43/1226_0_3651_2920/master/3651.jpg?width=140&quality=85&auto=format&fit=max&s=56fbb4db05cc1bda06981fcd22b23094",
+      "imageCredit": "The Guardian (feed image)",
+      "video": {
+        "youtubeId": "iSog3_bYIz0",
+        "channel": "BBC News",
+        "title": "'Brexit hasn’t worked and Britain lost more that it gained' says Andy Burnham | BBC News",
+        "watchUrl": "https://www.youtube.com/watch?v=iSog3_bYIz0",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/iSog3_bYIz0",
+        "poster": "https://i.ytimg.com/vi/iSog3_bYIz0/hqdefault.jpg"
+      },
+      "summarySource": "Predicting a final destination for reset negotiations between the EU and the UK is futile, given the wider challenges that Brussels is facing At the European Political Community summit in Dublin last week, Emmanuel Macron was pictured apparently waving a grinning Andy Burnham to a seat at the head of the table, as Ursula von der Leyen, the European Commission president, looked on. It was the visua",
+      "related": [
+        "the-guardian-view-on-sporting-triumphs-more-than-just-a-game-editorial-1f089f"
+      ]
+    },
+    "the-guardian-view-on-sporting-triumphs-more-than-just-a-game-editorial-1f089f": {
+      "id": "the-guardian-view-on-sporting-triumphs-more-than-just-a-game-editorial-1f089f",
+      "headline": "The Guardian view on sporting triumphs: more than just a game | Editorial",
+      "deck": "From Welsh rugby to English football, victories on the pitch can capture a nation’s imagination and briefly make the impossible seem possible The world divides roughly in two:…",
+      "precis": "The Guardian view on sporting triumphs: more than just a game, according to The Guardian. From Welsh rugby to English football, victories on the pitch can capture a nation’s imagination and briefly make the impossible seem possible The world divides roughly in two: people who like sport and people who don’t see the point. George Orwell was roundly dismissive – “ war minus the shooting ”. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/nov/16/the-guardian-view-on-sporting-triumphs-more-than-just-a-game",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Editorial",
+      "published": {
+        "iso": "2026-11-17T02:36:12+08:00",
+        "display": "17 November 2026, 2:36 AM HKT",
+        "short": "17 Nov, 2:36 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "opinion",
+      "image": "https://i.guim.co.uk/img/media/4a9ef7cc823b5c9a8e7cc81b0b55662ec688c649/747_0_6606_5285/master/6606.jpg?width=140&quality=85&auto=format&fit=max&s=336d76cd6c49bcf7ec0e64994568f2e1",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "From Welsh rugby to English football, victories on the pitch can capture a nation’s imagination and briefly make the impossible seem possible The world divides roughly in two: people who like sport and people who don’t see the point. George Orwell was roundly dismissive – “ war minus the shooting ”. Adrian Conan Doyle (Sir Arthur’s son) had the super-rationalist Sherlock Holmes baffled by why anyo",
+      "related": [
+        "the-guardian-view-on-europe-and-burnham-a-future-that-can-only-be-viewed-ccefa2"
+      ]
+    },
+    "damaging-the-lifeline-that-samaritans-offers-the-public-letters-02844f": {
+      "id": "damaging-the-lifeline-that-samaritans-offers-the-public-letters-02844f",
+      "headline": "Damaging the lifeline that Samaritans offers the public | Letters",
+      "deck": "Volunteers despair as the charity sets about closing local branches and restructuring Samaritans old and new will, I’m sure, have been just as shocked as I was by your article…",
+      "precis": "Damaging the lifeline that Samaritans offers the public, according to The Guardian. Volunteers despair as the charity sets about closing local branches and restructuring Samaritans old and new will, I’m sure, have been just as shocked as I was by your article ( ‘Is anyone up for a fight?’: The battle for the soul of Samaritans, 10 November ). Many, though, will not be surprised. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/society/2026/nov/16/damaging-the-lifeline-that-samaritans-offers-the-public",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Guardian Staff",
+      "published": {
+        "iso": "2026-11-17T02:03:07+08:00",
+        "display": "17 November 2026, 2:03 AM HKT",
+        "short": "17 Nov, 2:03 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "opinion",
+      "image": "https://i.guim.co.uk/img/media/92b6348c115aa231461ecf99548aea62f3660919/886_0_4429_3543/master/4429.jpg?width=140&quality=85&auto=format&fit=max&s=075b9524d07fc69df767e0b0003c9715",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Volunteers despair as the charity sets about closing local branches and restructuring Samaritans old and new will, I’m sure, have been just as shocked as I was by your article ( ‘Is anyone up for a fight?’: The battle for the soul of Samaritans, 10 November ). Many, though, will not be surprised. I was a volunteer for 26 years in three branches. The work was demanding and life-changing; the experi",
+      "related": []
+    },
+    "why-alan-milburn-s-pip-plan-is-a-mistake-letters-a2f5d9": {
+      "id": "why-alan-milburn-s-pip-plan-is-a-mistake-letters-a2f5d9",
+      "headline": "Why Alan Milburn’s Pip plan is a mistake | Letters",
+      "deck": "Savitri Hensman says financially struggling families and communities will be hit the hardest Alan Milburn has a track record of so-called cost-cutting measures that waste…",
+      "precis": "Why Alan Milburn’s Pip plan is a mistake. Savitri Hensman says financially struggling families and communities will be hit the hardest Alan Milburn has a track record of so-called cost-cutting measures that waste billions of pounds in public money while making health worse. The private finance initiative was an expensive mess , though it did help huge companies and rich people get richer. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/16/why-alan-milburn-pip-plan-is-a-mistake",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Guardian Staff",
+      "published": {
+        "iso": "2026-11-17T02:02:40+08:00",
+        "display": "17 November 2026, 2:02 AM HKT",
+        "short": "17 Nov, 2:02 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "opinion",
+      "image": "https://i.guim.co.uk/img/media/e67791e45439f61cf5f0cf01570d7a3b5145466f/699_0_3509_2808/master/3509.jpg?width=140&quality=85&auto=format&fit=max&s=5d537476607229bc5ba0ee57824d8ee8",
+      "imageCredit": "The Guardian (feed image)",
+      "video": {
+        "youtubeId": "ldHgPwi_cKg",
+        "channel": "Sky News",
+        "title": "‘We’re at risk of a lost generation’: Alan Milburn on plans to get young people in work",
+        "watchUrl": "https://www.youtube.com/watch?v=ldHgPwi_cKg",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/ldHgPwi_cKg",
+        "poster": "https://i.ytimg.com/vi/ldHgPwi_cKg/hqdefault.jpg"
+      },
+      "summarySource": "Savitri Hensman says financially struggling families and communities will be hit the hardest Alan Milburn has a track record of so-called cost-cutting measures that waste billions of pounds in public money while making health worse. The private finance initiative was an expensive mess , though it did help huge companies and rich people get richer. It is less surprising that he wants more benefits ",
+      "related": [
+        "neet-ideas-what-s-in-alan-milburn-s-report-on-young-people-not-in-educat-454f3d"
+      ]
+    },
+    "raising-the-state-pension-age-above-70-would-harm-the-poorest-letters-a5f9a3": {
+      "id": "raising-the-state-pension-age-above-70-would-harm-the-poorest-letters-a5f9a3",
+      "headline": "Raising the state pension age above 70 would harm the poorest | Letters",
+      "deck": "Joanna Elson of the Independent Age charity is concerned about poverty among pensioners and says ministers need to think hard before making changes You report ( 11 November )…",
+      "precis": "Raising the state pension age above 70 would harm the poorest, according to The Guardian. Joanna Elson of the Independent Age charity is concerned about poverty among pensioners and says ministers need to think hard before making changes You report ( 11 November ) Torsten Bell’s suggestion that the Conservatives would need to raise the state pension age above 70 to meet the cost of keeping the triple lock. It is well known that raising the state pension age increases poverty rates among those who have to wait longer for it, with those on the lowest incomes hit the hardest. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/money/2026/nov/16/raising-the-state-pension-age-above-70-would-harm-the-poorest",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Guardian Staff",
+      "published": {
+        "iso": "2026-11-17T02:02:24+08:00",
+        "display": "17 November 2026, 2:02 AM HKT",
+        "short": "17 Nov, 2:02 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "opinion",
+      "image": "https://i.guim.co.uk/img/media/2ed2d27f6f354ca3a5f2b15581c26bc164b5c3a6/405_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=0ef45ce7519a9f59efde49f76f3af807",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Joanna Elson of the Independent Age charity is concerned about poverty among pensioners and says ministers need to think hard before making changes You report ( 11 November ) Torsten Bell’s suggestion that the Conservatives would need to raise the state pension age above 70 to meet the cost of keeping the triple lock. It is well known that raising the state pension age increases poverty rates amon",
+      "related": []
+    },
+    "a-fair-deal-on-fees-for-eu-and-uk-students-letters-a0af06": {
+      "id": "a-fair-deal-on-fees-for-eu-and-uk-students-letters-a0af06",
+      "headline": "A fair deal on fees for EU and UK students | Letters",
+      "deck": "Thomas Altebaeumer notes that under the proposed scheme, UK students in Europe would pay domestic fees, as EU students studying in the UK would Vicky Wolmuth is angered that…",
+      "precis": "A fair deal on fees for EU and UK students, according to The Guardian. Thomas Altebaeumer notes that under the proposed scheme, UK students in Europe would pay domestic fees, as EU students studying in the UK would Vicky Wolmuth is angered that the UK government is able to find £450m to subsidise UK universities for admitting EU students while UK students are struggling with student debt ( Letters, 10 November ). She appears to have missed that, under the proposed scheme, UK students in Europe would pay domestic fees, just as EU students studying in the UK would. Read the original at The Guardian.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/education/2026/nov/16/a-fair-deal-on-fees-for-eu-and-uk-students",
+      "sourceHome": "https://www.theguardian.com/",
+      "author": "Guardian Staff",
+      "published": {
+        "iso": "2026-11-17T02:02:10+08:00",
+        "display": "17 November 2026, 2:02 AM HKT",
+        "short": "17 Nov, 2:02 AM HKT",
+        "folio": "Tuesday, 17 November 2026"
+      },
+      "desk": "opinion",
+      "image": "https://i.guim.co.uk/img/media/796864a8b11f5919c66429d90b45af57257c9ea8/321_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=a1cbfbb6c07fe9528497f3eafbeb4aa3",
+      "imageCredit": "The Guardian (feed image)",
+      "video": null,
+      "summarySource": "Thomas Altebaeumer notes that under the proposed scheme, UK students in Europe would pay domestic fees, as EU students studying in the UK would Vicky Wolmuth is angered that the UK government is able to find £450m to subsidise UK universities for admitting EU students while UK students are struggling with student debt ( Letters, 10 November ). She appears to have missed that, under the proposed sc",
+      "related": []
+    }
+  },
+  "deskLists": {
+    "world": [
+      "hundreds-arrested-in-anti-trump-protests-in-philippines-amid-anger-over-9efce1",
+      "hi-tech-shenzhen-takes-centre-stage-as-xi-sends-chinamaxxing-message-at-bac46a",
+      "china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen-0615b6",
+      "trump-arrives-in-philippines-to-kick-off-asia-trip-ebb2a1",
+      "nvidia-partner-megaspeed-being-investigated-by-us-government-over-chip-e-acf948",
+      "us-government-confirms-investigation-into-tech-firm-megaspeed-acf948",
+      "inside-the-chinese-ai-wonderland-where-xi-will-host-trump-ee116a",
+      "how-new-us-chip-restrictions-on-south-east-asia-will-hit-china-0b72aa",
+      "will-president-trump-meet-kim-jong-un-6ea9dd",
+      "trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china-95ad9d",
+      "trump-is-in-asia-ahead-of-xi-putin-summit-and-tech-leaders-want-huang-ba-3642c1",
+      "speed-camera-fault-may-have-allowed-drivers-to-escape-fines-04508f",
+      "uk-sanctions-firms-over-israeli-west-bank-settlements-47b472"
+    ],
+    "hong-kong": [
+      "singapore-in-damage-control-after-nvidia-scandal-exposes-china-loophole-260466",
+      "district-official-proposes-ride-hail-pickup-zone-at-kai-tak-to-curb-ille-63458e",
+      "japan-offers-asean-access-to-crude-oil-storage-to-counter-energy-crises-1d3963",
+      "china-says-xi-trump-putin-to-discuss-world-peace-at-shenzhen-summit-27e020",
+      "cold-front-to-bring-15-c-lows-to-hong-kong-on-friday-rain-next-week-62800f",
+      "nobody-wins-the-future-alone-john-lee-calls-for-collaboration-at-apec-4e396f",
+      "baidu-xiaomi-ceos-warn-of-growing-gap-between-ai-hype-and-returns-357aa4",
+      "taiwan-tracks-2-russian-warplanes-off-eastern-coast-ahead-of-apec-summit-b688a2",
+      "hong-kong-records-14-000-cybersecurity-incidents-in-first-10-months-of-2-37995e",
+      "china-and-canada-agree-on-fresh-tariff-relief-as-xi-and-carney-continue-b7bda8",
+      "china-and-vietnam-should-weather-the-storm-together-xi-tells-lam-in-shen-c8fbb6",
+      "civil-servants-do-not-mind-working-off-hours-when-required-official-says-e38de7",
+      "thailand-to-drop-us-tariffs-buy-2-6b-in-agricultural-products-under-new-e9a729"
+    ],
+    "business": [
+      "china-vows-to-take-necessary-measures-against-us-ai-chip-restrictions-as-bf87b2",
+      "government-must-act-now-or-lose-royal-mail-former-minister-warns-1b20f8",
+      "immigration-arrests-after-organised-crime-blitz-fde979",
+      "neet-ideas-what-s-in-alan-milburn-s-report-on-young-people-not-in-educat-454f3d",
+      "tobacco-group-imperial-brands-to-axe-up-to-4-600-jobs-as-it-uses-more-ai-34397e",
+      "uk-unemployment-unexpectedly-eases-to-4-6-as-government-prepares-to-rele-ec207f",
+      "can-this-experimental-orchard-save-the-uk-s-cider-industry-4cd462",
+      "customers-report-service-outages-at-major-us-banks-458954",
+      "we-couldn-t-afford-a-house-alone-so-we-bought-one-with-strangers-e4c707",
+      "openai-sued-by-california-over-hugging-face-attack-8c2c38",
+      "new-rule-aims-to-close-loophole-on-chip-exports-3304f5",
+      "customers-report-difficulty-accessing-online-services-at-major-us-banks-59e6ae",
+      "california-sues-openai-over-safety-concerns-after-rogue-agent-hacking-7d4307"
+    ],
+    "sport": [
+      "london-city-s-goodwin-gets-first-england-call-up-0612e0",
+      "singapore-outclassed-in-7-0-defeat-by-brazil-as-vinicius-jr-scores-hat-t-cb49c7",
+      "why-jordan-cox-refuses-to-take-a-breather-if-england-want-me-i-ll-be-the-38c1bd",
+      "triple-scotland-injury-blow-for-japan-finale-a87322",
+      "dechambeau-joins-dp-world-tour-after-liv-golf-collapse-038481",
+      "bryson-dechambeau-joins-dp-world-tour-for-2027-after-demise-of-liv-golf-33cb04",
+      "janine-van-wyk-our-rooms-were-empty-no-mattresses-no-lightbulbs-and-not-9da430",
+      "coach-given-one-game-ban-for-head-push-on-female-player-650e20",
+      "why-not-have-a-go-the-halfway-line-goal-phenomenon-f21934",
+      "gb-s-patten-criticises-atp-chairman-and-ceo-for-absence-65825d",
+      "will-infantino-feel-he-s-already-won-as-fifa-challengers-are-revealed-5517c6",
+      "rassie-erasmus-launches-match-fixing-diatribe-over-officials-after-defea-0369ee",
+      "prison-sentences-rescinded-after-nurmagomedov-dvalishvili-brawl-8da06f"
+    ],
+    "culture": [
+      "she-set-out-to-buy-a-painting-a-day-on-the-trail-of-peggy-guggenheim-s-l-9cb1cc",
+      "they-re-one-of-the-uk-s-greatest-cult-bands-who-swore-they-d-never-reuni-312788",
+      "mick-jagger-should-fold-up-his-penis-and-go-home-the-caustic-genius-of-m-f54840",
+      "american-doctor-review-medics-put-their-lives-on-the-line-in-gaza-amid-t-7e594d",
+      "belonging-by-sonia-gandhi-review-india-s-elder-stateswoman-breaks-her-si-c09fc7",
+      "robert-pattinson-to-replace-daniel-craig-as-james-bond-d73407",
+      "bagel-makers-lovers-and-critics-converged-in-new-york-for-best-bagel-con-9811df",
+      "russell-brand-prison-message-appalling-and-being-investigated-no-10-says-4b3d6f",
+      "emma-barnett-to-leave-radio-4-s-today-for-new-bbc-show-acb485",
+      "sir-tom-jones-announces-homecoming-gigs-after-cancelling-shows-due-to-fl-b72836",
+      "a-family-runs-afoul-of-the-russian-mob-in-the-terrific-paper-tiger-6b1f99",
+      "nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here-1cc4cd",
+      "robert-pattinson-is-the-next-james-bond-615a87"
+    ],
+    "science": [
+      "giant-lunar-sculpture-has-visitors-over-the-moon-0e315a",
+      "more-than-160m-needed-to-clean-up-one-of-europe-s-largest-illegal-dumps-f4a3c5",
+      "dazzling-leonid-meteor-shower-to-peak-on-tuesday-night-7d4573",
+      "would-more-hands-on-dads-create-a-more-peaceful-world-this-pioneering-sc-c78fde",
+      "met-office-yellow-warning-in-place-as-snow-could-disrupt-tuesday-morning-788eef",
+      "brain-cell-mapping-lays-groundwork-for-better-treatments-for-conditions-db0516",
+      "orwellian-hiv-scientist-s-ordeal-lays-bare-trump-officials-interference-954ee0",
+      "yellow-weather-warnings-issued-for-snow-as-temperatures-plummet-481dd7",
+      "starwatch-fleeting-brilliance-of-leonid-meteor-shower-to-hit-peak-40dd25",
+      "far-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-s-1adf31",
+      "the-superpower-battle-over-energy-and-what-it-means-for-your-bills-de1928",
+      "how-to-spot-november-s-planetary-parade-in-the-pre-dawn-sky-ed56c1",
+      "spacex-successfully-catches-top-of-huge-starship-rocket-for-first-time-e08c85"
+    ],
+    "opinion": [
+      "the-corporate-boom-in-vegan-food-is-dead-long-live-real-plant-based-cook-34fc81",
+      "automated-warfare-is-already-here-now-governments-must-restrain-it-helen-b405d8",
+      "don-t-wait-for-a-change-in-the-age-of-consent-adults-can-act-to-stop-age-46bfd4",
+      "ben-jennings-on-the-jobs-crisis-for-young-people-cartoon-2c7be6",
+      "the-guardian-view-on-europe-and-burnham-a-future-that-can-only-be-viewed-ccefa2",
+      "the-guardian-view-on-sporting-triumphs-more-than-just-a-game-editorial-1f089f",
+      "damaging-the-lifeline-that-samaritans-offers-the-public-letters-02844f",
+      "why-alan-milburn-s-pip-plan-is-a-mistake-letters-a2f5d9",
+      "raising-the-state-pension-age-above-70-would-harm-the-poorest-letters-a5f9a3",
+      "a-fair-deal-on-fees-for-eu-and-uk-students-letters-a0af06"
+    ]
+  },
+  "credits": {
+    "feeds": [
+      "BBC News",
+      "BBC Sport",
+      "CNA",
+      "Deutsche Welle",
+      "France 24",
+      "Hong Kong Free Press",
+      "NPR",
+      "South China Morning Post",
+      "The Guardian"
+    ],
+    "videoChannels": [
+      "Al Jazeera English",
+      "Associated Press",
+      "BBC News",
+      "FRANCE 24 English",
+      "Reuters",
+      "Sky News"
+    ],
+    "weather": "Hong Kong Observatory open data, when shown",
+    "note": "Headlines, times and facts are taken from public RSS feeds and official open data. Article bodies are not reproduced. Living plates use official YouTube embeds from news organisations, restyled as press plates, or still photographs supplied by those feeds."
+  }
+}

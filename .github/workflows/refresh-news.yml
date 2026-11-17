@@ -1,0 +1,27 @@
+name: Refresh living edition
+
+on:
+  schedule:
+    - cron: "20 0,6,12,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install lxml
+        run: pip install lxml
+      - name: Set the edition
+        run: python scripts/refresh_news.py
+      - name: Commit the snapshot
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh the living edition snapshot"
+          file_pattern: data/news.json js/edition.js

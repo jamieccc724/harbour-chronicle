@@ -1,0 +1,160 @@
+/* Desk personalities: one family, different cases. */
+
+body.desk-hong-kong {
+  --paper: #f6e4c0;
+  --paper-deep: #ebc99a;
+  --ink: #1a120c;
+}
+body.desk-hong-kong .sheet {
+  background-image: url("../assets/images/paper-warm.jpg");
+}
+body.desk-hong-kong .section-flag {
+  border-bottom-color: var(--vermillion);
+  color: var(--vermillion);
+}
+body.desk-hong-kong .precis .drop,
+body.desk-hong-kong .lede .headline {
+  color: #1a120c;
+}
+/* Original vermillion seal ornament, not a copied chop */
+body.desk-hong-kong .section-flag::after,
+.seal-mark {
+  /* used as a typographic stamp */
+}
+.seal-mark {
+  display: inline-block;
+  margin-left: 0.5rem;
+  border: 2px solid var(--vermillion);
+  color: var(--vermillion);
+  font-family: var(--zh);
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  padding: 0.1rem 0.28rem 0.05rem;
+  transform: rotate(-6deg);
+  vertical-align: middle;
+  line-height: 1.2;
+}
+
+body.desk-business {
+  --paper: #e8e6df;
+  --paper-deep: #d4d2cb;
+  --ink: #1a1c1f;
+  --ink-soft: #33363b;
+  --ink-faded: #555860;
+}
+body.desk-business .sheet {
+  background-image: url("../assets/images/paper-cool.jpg");
+}
+body.desk-business,
+body.desk-business .headline,
+body.desk-business .precis {
+  letter-spacing: -0.015em;
+  font-variant-numeric: tabular-nums;
+}
+body.desk-business .section-flag {
+  font-family: var(--gothic);
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  border-bottom-width: 1px;
+}
+body.desk-business .headline {
+  font-family: var(--serif-text);
+  font-weight: 600;
+}
+
+body.desk-sport {
+  --ink: #140e0c;
+}
+body.desk-sport .section-flag,
+body.desk-sport .lede .headline,
+body.desk-sport .folio-section .lead-slot .headline {
+  font-family: var(--gothic);
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 0.92;
+}
+body.desk-sport .lede .headline { font-size: clamp(2.3rem, 5vw, 3.8rem); }
+body.desk-sport .section-flag { border-bottom-width: 5px; font-size: 1.3rem; }
+body.desk-sport .story-block .headline { font-family: var(--gothic); text-transform: uppercase; letter-spacing: 0.01em; font-size: 1.28rem; }
+
+body.desk-culture {
+  --paper: #f7ecd8;
+}
+body.desk-culture .sheet { padding-left: 2rem; padding-right: 2rem; }
+body.desk-culture .folio-section { grid-template-columns: 1.2fr 0.9fr; gap: 1.6rem 1.8rem; }
+body.desk-culture .deck { font-size: 1.25rem; }
+body.desk-culture .headline { font-weight: 500; font-style: italic; letter-spacing: 0; }
+body.desk-culture .lede .headline,
+body.desk-culture .folio-section .lead-slot .headline { font-style: italic; font-weight: 500; }
+body.desk-culture .section-flag {
+  font-family: var(--serif-display);
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: none;
+  border-bottom-width: 1px;
+  font-size: 1.4rem;
+}
+
+body.desk-science {
+  --paper: #e7eef0;
+  --paper-deep: #cfdce0;
+  --ink: #0d3d44;
+  --ink-soft: #1b4d54;
+  --ink-faded: #3a656c;
+  --ink-rule: #0d3d44;
+}
+body.desk-science .sheet {
+  background-image: url("../assets/images/paper-science.jpg");
+}
+body.desk-science .headline {
+  font-family: var(--serif-text);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+body.desk-science .section-flag {
+  font-family: var(--serif-text);
+  letter-spacing: 0.2em;
+  border-bottom-width: 1px;
+  font-weight: 600;
+}
+
+body.desk-opinion {
+  --paper: #f4e7cc;
+}
+body.desk-opinion .folio-section { grid-template-columns: 1fr; max-width: 42rem; margin: 0 auto; }
+body.desk-opinion .folio-section .lead-slot { display: block; }
+body.desk-opinion .headline {
+  font-family: var(--serif-press);
+  font-weight: 400;
+  font-size: 1.7rem;
+  line-height: 1.15;
+  letter-spacing: 0;
+}
+body.desk-opinion .lede .headline,
+body.desk-opinion .folio-section .lead-slot .headline {
+  font-size: 2.2rem;
+  font-weight: 400;
+}
+body.desk-opinion .precis .drop { font-size: 4.2rem; }
+body.desk-opinion .section-flag {
+  font-family: var(--serif-press);
+  font-style: italic;
+  letter-spacing: 0.06em;
+  text-transform: none;
+  font-size: 1.3rem;
+  border-bottom-width: 1px;
+  font-weight: 400;
+}
+
+body.desk-world .section-flag {
+  font-family: var(--serif-press);
+  letter-spacing: 0.2em;
+}
+
+@media (max-width: 860px) {
+  body.desk-culture .sheet { padding-left: 0.9rem; padding-right: 0.9rem; }
+  body.desk-culture .folio-section,
+  body.desk-opinion .folio-section { display: block; }
+}

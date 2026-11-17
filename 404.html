@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Harbour Chronicle — This leaf was never set</title>
+  <meta name="description" content="No such folio was set in The Harbour Chronicle.">
+    <meta name="theme-color" content="#1c150e">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Chronicle">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+  <link rel="icon" href="assets/crest.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600;1,700&family=IM+Fell+English:ital@0;1&family=IBM+Plex+Mono:ital,wght@0,400;0,500;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,500&family=Noto+Serif+TC:wght@500;700&family=Oswald:wght@500;600;700&display=swap">
+  <link rel="stylesheet" href="css/press.css">
+  <link rel="stylesheet" href="css/desks.css">
+  
+</head>
+<body class="desk-world" data-leaf="lost" data-desk="world">
+  <a class="skip" href="#folio">Skip to the folio</a>
+  <div class="desk-bg" aria-hidden="true"></div>
+  <canvas id="ink-trail" aria-hidden="true"></canvas>
+  <main class="sheet" id="folio">
+    <header class="masthead">
+      <p class="press-line">The Living Press at Victoria Harbour</p>
+      <div class="masthead-crest-row">
+        <hr class="rule-flourish" aria-hidden="true">
+        <img class="crest" src="assets/crest.svg" width="92" height="92" alt="Press-mark of The Harbour Chronicle: a harbour egret among typographic tide rings">
+        <hr class="rule-flourish" aria-hidden="true">
+      </div>
+      <h1 class="wordmark"><span class="the">The</span> Harbour<br>Chronicle</h1>
+      <p class="motto">Ink that holds the tide</p>
+      <div class="folio-line">
+        <div>
+          <div><strong data-bind="volume">Vol. I</strong></div>
+          <div data-bind="date">Hong Kong</div>
+        </div>
+        <div class="harbour-glass" data-bind="weather"></div>
+      </div>
+    </header>
+    <ul class="slug-nav" aria-label="Edition desks">
+            <li><a href="index.html" data-desk="world">Front<span class="zh">首頁</span></a></li>
+            <li><a href="world.html" data-desk="world">World<span class="zh">要聞</span></a></li>
+            <li><a href="hong-kong.html" data-desk="hong-kong">Hong Kong & Asia<span class="zh">港聞與亞洲</span></a></li>
+            <li><a href="business.html" data-desk="business">Business<span class="zh">經濟</span></a></li>
+            <li><a href="sport.html" data-desk="sport">Sport<span class="zh">體育</span></a></li>
+            <li><a href="culture.html" data-desk="culture">Culture<span class="zh">文藝</span></a></li>
+            <li><a href="science.html" data-desk="science">Science<span class="zh">科學</span></a></li>
+            <li><a href="opinion.html" data-desk="opinion">Opinion<span class="zh">社評</span></a></li>
+    </ul>
+    <form class="seek" role="search" action="javascript:void(0)">
+      <label>Seek <input id="seek-input" type="search" placeholder="a name, a desk, a source…" autocomplete="off"></label>
+    </form>
+    <div id="seek-results" class="seek-results" role="listbox" aria-label="Search results"></div>
+    
+    <div id="folio-body" class="lost-leaf">
+      <p class="kicker">Office of Moving Plates</p>
+      <h1>This leaf was never set.</h1>
+      <p class="deck">The compositor can find no such folio in the present edition. It may have been cancelled at the stone, or the typographic address may be at fault.</p>
+      <p><a href="index.html">Return to the front leaf</a> · <a href="about.html">Colophon</a></p>
+    </div>
+
+    <footer class="press-foot">
+      <div>
+        <h2>The living press</h2>
+        <p>An independent digital broadsheet, set at Victoria Harbour. Not affiliated with any other newspaper. Headlines and facts come from public dispatches; article bodies are not reproduced.</p>
+        <p><a href="about.html">Colophon &amp; credits</a></p>
+      </div>
+      <div>
+        <h2>The registrar</h2>
+        <p>Times are given in Hong Kong Time (HKT). Living plates are official news pictures, restyled as moving impressions, never invented scenes.</p>
+      </div>
+      <div>
+        <h2>Keep this paper</h2>
+        <div class="keep-paper" id="keep-paper" hidden>
+          <button type="button" id="install-edition" hidden>Install this edition</button>
+          <span id="ios-install" hidden>On iPhone: tap Share, then Add to Home Screen, to keep this edition as an app.</span>
+        </div>
+        <p class="keep-paper-note">This leaf can be installed as an app on your Home Screen, and may be read again without a wire once it has been opened.</p>
+      </div>
+      <div>
+        <h2>Desks</h2>
+        <p>
+          <a href="world.html">World</a> ·
+          <a href="hong-kong.html">Hong Kong &amp; Asia</a> ·
+          <a href="business.html">Business</a> ·
+          <a href="sport.html">Sport</a> ·
+          <a href="culture.html">Culture</a> ·
+          <a href="science.html">Science</a> ·
+          <a href="opinion.html">Opinion</a>
+        </p>
+      </div>
+    </footer>
+  </main>
+  <script src="js/edition.js"></script>
+  <script src="js/press.js"></script>
+  <script src="https://www.youtube.com/iframe_api"></script>
+</body>
+</html>
